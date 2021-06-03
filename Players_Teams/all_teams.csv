@@ -1,0 +1,2317 @@
+year,team_id,league,city,nickname
+1916,BOS,A,Boston,Red Sox
+1916,CHA,A,Chicago,White Sox
+1916,CLE,A,Cleveland,Indians
+1916,DET,A,Detroit,Tigers
+1916,NYA,A,New York,Yankees
+1916,PHA,A,Philadelphia,Athletics
+1916,SLA,A,St.Louis,Browns
+1916,WS1,A,Washington,Senators
+1916,BRO,N,Brooklyn,Dodgers
+1916,BSN,N,Boston,Braves
+1916,CHN,N,Chicago,Cubs
+1916,CIN,N,Cincinnati,Reds
+1916,NY1,N,New York,Giants
+1916,PHI,N,Philadelphia,Phillies
+1916,PIT,N,Pittsburgh,Pirates
+1916,SLN,N,St.Louis,Cardinals
+1917,BOS,A,Boston,Red Sox
+1917,CHA,A,Chicago,White Sox
+1917,CLE,A,Cleveland,Indians
+1917,DET,A,Detroit,Tigers
+1917,NYA,A,New York,Yankees
+1917,PHA,A,Philadelphia,Athletics
+1917,SLA,A,St.Louis,Browns
+1917,WS1,A,Washington,Senators
+1917,BRO,N,Brooklyn,Dodgers
+1917,BSN,N,Boston,Braves
+1917,CHN,N,Chicago,Cubs
+1917,CIN,N,Cincinnati,Reds
+1917,NY1,N,New York,Giants
+1917,PHI,N,Philadelphia,Phillies
+1917,PIT,N,Pittsburgh,Pirates
+1917,SLN,N,St.Louis,Cardinals
+1918,BOS,A,Boston,Red Sox
+1918,CHA,A,Chicago,White Sox
+1918,CLE,A,Cleveland,Indians
+1918,DET,A,Detroit,Tigers
+1918,NYA,A,New York,Yankees
+1918,PHA,A,Philadelphia,Athletics
+1918,SLA,A,St.Louis,Browns
+1918,WS1,A,Washington,Senators
+1918,BRO,N,Brooklyn,Dodgers
+1918,BSN,N,Boston,Braves
+1918,CHN,N,Chicago,Cubs
+1918,CIN,N,Cincinnati,Reds
+1918,NY1,N,New York,Giants
+1918,PHI,N,Philadelphia,Phillies
+1918,PIT,N,Pittsburgh,Pirates
+1918,SLN,N,St.Louis,Cardinals
+1919,BOS,A,Boston,Red Sox
+1919,CHA,A,Chicago,White Sox
+1919,CLE,A,Cleveland,Indians
+1919,DET,A,Detroit,Tigers
+1919,NYA,A,New York,Yankees
+1919,PHA,A,Philadelphia,Athletics
+1919,SLA,A,St.Louis,Browns
+1919,WS1,A,Washington,Senators
+1919,BRO,N,Brooklyn,Dodgers
+1919,BSN,N,Boston,Braves
+1919,CHN,N,Chicago,Cubs
+1919,CIN,N,Cincinnati,Reds
+1919,NY1,N,New York,Giants
+1919,PHI,N,Philadelphia,Phillies
+1919,PIT,N,Pittsburgh,Pirates
+1919,SLN,N,St.Louis,Cardinals
+1920,BOS,A,Boston,Red Sox
+1920,CHA,A,Chicago,White Sox
+1920,CLE,A,Cleveland,Indians
+1920,DET,A,Detroit,Tigers
+1920,NYA,A,New York,Yankees
+1920,PHA,A,Philadelphia,Athletics
+1920,SLA,A,St.Louis,Browns
+1920,WS1,A,Washington,Senators
+1920,BRO,N,Brooklyn,Robins
+1920,BSN,N,Boston,Braves
+1920,CHN,N,Chicago,Cubs
+1920,CIN,N,Cincinnati,Reds
+1920,NY1,N,New York,Giants
+1920,PHI,N,Philadelphia,Phillies
+1920,PIT,N,Pittsburgh,Pirates
+1920,SLN,N,St.Louis,Cardinals
+1921,BOS,A,Boston,Red Sox
+1921,CHA,A,Chicago,White Sox
+1921,CLE,A,Cleveland,Indians
+1921,DET,A,Detroit,Tigers
+1921,NYA,A,New York,Yankees
+1921,PHA,A,Philadelphia,Athletics
+1921,SLA,A,St.Louis,Browns
+1921,WS1,A,Washington,Senators
+1921,BRO,N,Brooklyn,Dodgers
+1921,BSN,N,Boston,Braves
+1921,CHN,N,Chicago,Cubs
+1921,CIN,N,Cincinnati,Reds
+1921,NY1,N,New York,Giants
+1921,PHI,N,Philadelphia,Phillies
+1921,PIT,N,Pittsburgh,Pirates
+1921,SLN,N,St.Louis,Cardinals
+1922,BOS,A,Boston,Red Sox
+1922,CHA,A,Chicago,White Sox
+1922,CLE,A,Cleveland,Indians
+1922,DET,A,Detroit,Tigers
+1922,NYA,A,New York,Yankees
+1922,PHA,A,Philadelphia,Athletics
+1922,SLA,A,St.Louis,Browns
+1922,WS1,A,Washington,Senators
+1922,BRO,N,Brooklyn,Dodgers
+1922,BSN,N,Boston,Braves
+1922,CHN,N,Chicago,Cubs
+1922,CIN,N,Cincinnati,Reds
+1922,NY1,N,New York,Giants
+1922,PHI,N,Philadelphia,Phillies
+1922,PIT,N,Pittsburgh,Pirates
+1922,SLN,N,St.Louis,Cardinals
+1923,BOS,A,Boston,Red Sox
+1923,CHA,A,Chicago,White Sox
+1923,CLE,A,Cleveland,Indians
+1923,DET,A,Detroit,Tigers
+1923,NYA,A,New York,Yankees
+1923,PHA,A,Philadelphia,Athletics
+1923,SLA,A,St.Louis,Browns
+1923,WS1,A,Washington,Senators
+1923,BRO,N,Brooklyn,Dodgers
+1923,BSN,N,Boston,Braves
+1923,CHN,N,Chicago,Cubs
+1923,CIN,N,Cincinnati,Reds
+1923,NY1,N,New York,Giants
+1923,PHI,N,Philadelphia,Phillies
+1923,PIT,N,Pittsburgh,Pirates
+1923,SLN,N,St.Louis,Cardinals
+1924,BOS,A,Boston,Red Sox
+1924,CHA,A,Chicago,White Sox
+1924,CLE,A,Cleveland,Indians
+1924,DET,A,Detroit,Tigers
+1924,NYA,A,New York,Yankees
+1924,PHA,A,Philadelphia,Athletics
+1924,SLA,A,St.Louis,Browns
+1924,WS1,A,Washington,Senators
+1924,BRO,N,Brooklyn,Robins
+1924,BSN,N,Boston,Braves
+1924,CHN,N,Chicago,Cubs
+1924,CIN,N,Cincinnati,Reds
+1924,NY1,N,New York,Giants
+1924,PHI,N,Philadelphia,Phillies
+1924,PIT,N,Pittsburgh,Pirates
+1924,SLN,N,St.Louis,Cardinals
+1925,BOS,A,Boston,Red Sox
+1925,CHA,A,Chicago,White Sox
+1925,CLE,A,Cleveland,Indians
+1925,DET,A,Detroit,Tigers
+1925,NYA,A,New York,Yankees
+1925,PHA,A,Philadelphia,Athletics
+1925,SLA,A,St.Louis,Browns
+1925,WS1,A,Washington,Senators
+1925,BRO,N,Brooklyn,Robins
+1925,BSN,N,Boston,Braves
+1925,CHN,N,Chicago,Cubs
+1925,CIN,N,Cincinnati,Reds
+1925,NY1,N,New York,Giants
+1925,PHI,N,Philadelphia,Phillies
+1925,PIT,N,Pittsburgh,Pirates
+1925,SLN,N,St.Louis,Cardinals
+1926,BOS,A,Boston,Red Sox
+1926,CHA,A,Chicago,White Sox
+1926,CLE,A,Cleveland,Indians
+1926,DET,A,Detroit,Tigers
+1926,NYA,A,New York,Yankees
+1926,PHA,A,Philadelphia,Athletics
+1926,SLA,A,St.Louis,Browns
+1926,WS1,A,Washington,Senators
+1926,BRO,N,Brooklyn,Robins
+1926,BSN,N,Boston,Braves
+1926,CHN,N,Chicago,Cubs
+1926,CIN,N,Cincinnati,Reds
+1926,NY1,N,New York,Giants
+1926,PHI,N,Philadelphia,Phillies
+1926,PIT,N,Pittsburgh,Pirates
+1926,SLN,N,St.Louis,Cardinals
+1927,BOS,A,Boston,Red Sox
+1927,CHA,A,Chicago,White Sox
+1927,CLE,A,Cleveland,Indians
+1927,DET,A,Detroit,Tigers
+1927,NYA,A,New York,Yankees
+1927,PHA,A,Philadelphia,Athletics
+1927,SLA,A,St.Louis,Browns
+1927,WS1,A,Washington,Senators
+1927,BRO,N,Brooklyn,Robins
+1927,BSN,N,Boston,Braves
+1927,CHN,N,Chicago,Cubs
+1927,CIN,N,Cincinnati,Reds
+1927,NY1,N,New York,Giants
+1927,PHI,N,Philadelphia,Phillies
+1927,PIT,N,Pittsburgh,Pirates
+1927,SLN,N,St.Louis,Cardinals
+1928,BOS,A,Boston,Red Sox
+1928,CHA,A,Chicago,White Sox
+1928,CLE,A,Cleveland,Indians
+1928,DET,A,Detroit,Tigers
+1928,NYA,A,New York,Yankees
+1928,PHA,A,Philadelphia,Athletics
+1928,SLA,A,St.Louis,Browns
+1928,WS1,A,Washington,Senators
+1928,BRO,N,Brooklyn,Robins
+1928,BSN,N,Boston,Braves
+1928,CHN,N,Chicago,Cubs
+1928,CIN,N,Cincinnati,Reds
+1928,NY1,N,New York,Giants
+1928,PHI,N,Philadelphia,Phillies
+1928,PIT,N,Pittsburgh,Pirates
+1928,SLN,N,St.Louis,Cardinals
+1929,BOS,A,Boston,Red Sox
+1929,CHA,A,Chicago,White Sox
+1929,CLE,A,Cleveland,Indians
+1929,DET,A,Detroit,Tigers
+1929,NYA,A,New York,Yankees
+1929,PHA,A,Philadelphia,Athletics
+1929,SLA,A,St.Louis,Browns
+1929,WS1,A,Washington,Senators
+1929,BRO,N,Brooklyn,Robins
+1929,BSN,N,Boston,Braves
+1929,CHN,N,Chicago,Cubs
+1929,CIN,N,Cincinnati,Reds
+1929,NY1,N,New York,Giants
+1929,PHI,N,Philadelphia,Phillies
+1929,PIT,N,Pittsburgh,Pirates
+1929,SLN,N,St.Louis,Cardinals
+1930,BOS,A,Boston,Red Sox
+1930,CHA,A,Chicago,White Sox
+1930,CLE,A,Cleveland,Indians
+1930,DET,A,Detroit,Tigers
+1930,NYA,A,New York,Yankees
+1930,PHA,A,Philadelphia,Athletics
+1930,SLA,A,St.Louis,Browns
+1930,WS1,A,Washington,Senators
+1930,BRO,N,Brooklyn,Robins
+1930,BSN,N,Boston,Braves
+1930,CHN,N,Chicago,Cubs
+1930,CIN,N,Cincinnati,Reds
+1930,NY1,N,New York,Giants
+1930,PHI,N,Philadelphia,Phillies
+1930,PIT,N,Pittsburgh,Pirates
+1930,SLN,N,St.Louis,Cardinals
+1931,BOS,A,Boston,Red Sox
+1931,CHA,A,Chicago,White Sox
+1931,CLE,A,Cleveland,Indians
+1931,DET,A,Detroit,Tigers
+1931,NYA,A,New York,Yankees
+1931,PHA,A,Philadelphia,Athletics
+1931,SLA,A,St.Louis,Browns
+1931,WS1,A,Washington,Senators
+1931,BRO,N,Brooklyn,Dodgers
+1931,BSN,N,Boston,Braves
+1931,CHN,N,Chicago,Cubs
+1931,CIN,N,Cincinnati,Reds
+1931,NY1,N,New York,Giants
+1931,PHI,N,Philadelphia,Phillies
+1931,PIT,N,Pittsburgh,Pirates
+1931,SLN,N,St.Louis,Cardinals
+1932,BOS,A,Boston,Red Sox
+1932,CHA,A,Chicago,White Sox
+1932,CLE,A,Cleveland,Indians
+1932,DET,A,Detroit,Tigers
+1932,NYA,A,New York,Yankees
+1932,PHA,A,Philadelphia,Athletics
+1932,SLA,A,St.Louis,Browns
+1932,WS1,A,Washington,Senators
+1932,BRO,N,Brooklyn,Dodgers
+1932,BSN,N,Boston,Braves
+1932,CHN,N,Chicago,Cubs
+1932,CIN,N,Cincinnati,Reds
+1932,NY1,N,New York,Giants
+1932,PHI,N,Philadelphia,Phillies
+1932,PIT,N,Pittsburgh,Pirates
+1932,SLN,N,St.Louis,Cardinals
+1933,BOS,A,Boston,Red Sox
+1933,CHA,A,Chicago,White Sox
+1933,CLE,A,Cleveland,Indians
+1933,DET,A,Detroit,Tigers
+1933,NYA,A,New York,Yankees
+1933,PHA,A,Philadelphia,Athletics
+1933,SLA,A,St.Louis,Browns
+1933,WS1,A,Washington,Senators
+1933,BRO,N,Brooklyn,Dodgers
+1933,BSN,N,Boston,Braves
+1933,CHN,N,Chicago,Cubs
+1933,CIN,N,Cincinnati,Reds
+1933,NY1,N,New York,Giants
+1933,PHI,N,Philadelphia,Phillies
+1933,PIT,N,Pittsburgh,Pirates
+1933,SLN,N,St.Louis,Cardinals
+1934,BOS,A,Boston,Red Sox
+1934,CHA,A,Chicago,White Sox
+1934,CLE,A,Cleveland,Indians
+1934,DET,A,Detroit,Tigers
+1934,NYA,A,New York,Yankees
+1934,PHA,A,Philadelphia,Athletics
+1934,SLA,A,St.Louis,Browns
+1934,WS1,A,Washington,Senators
+1934,BRO,N,Brooklyn,Dodgers
+1934,BSN,N,Boston,Braves
+1934,CHN,N,Chicago,Cubs
+1934,CIN,N,Cincinnati,Reds
+1934,NY1,N,New York,Giants
+1934,PHI,N,Philadelphia,Phillies
+1934,PIT,N,Pittsburgh,Pirates
+1934,SLN,N,St.Louis,Cardinals
+1935,BOS,A,Boston,Red Sox
+1935,CHA,A,Chicago,White Sox
+1935,CLE,A,Cleveland,Indians
+1935,DET,A,Detroit,Tigers
+1935,NYA,A,New York,Yankees
+1935,PHA,A,Philadelphia,Athletics
+1935,SLA,A,St.Louis,Browns
+1935,WS1,A,Washington,Senators
+1935,BRO,N,Brooklyn,Dodgers
+1935,BSN,N,Boston,Braves
+1935,CHN,N,Chicago,Cubs
+1935,CIN,N,Cincinnati,Reds
+1935,NY1,N,New York,Giants
+1935,PHI,N,Philadelphia,Phillies
+1935,PIT,N,Pittsburgh,Pirates
+1935,SLN,N,St.Louis,Cardinals
+1936,BOS,A,Boston,Red Sox
+1936,CHA,A,Chicago,White Sox
+1936,CLE,A,Cleveland,Indians
+1936,DET,A,Detroit,Tigers
+1936,NYA,A,New York,Yankees
+1936,PHA,A,Philadelphia,Athletics
+1936,SLA,A,St.Louis,Browns
+1936,WS1,A,Washington,Senators
+1936,BRO,N,Brooklyn,Dodgers
+1936,BSN,N,Boston,Braves
+1936,CHN,N,Chicago,Cubs
+1936,CIN,N,Cincinnati,Reds
+1936,NY1,N,New York,Giants
+1936,PHI,N,Philadelphia,Phillies
+1936,PIT,N,Pittsburgh,Pirates
+1936,SLN,N,St.Louis,Cardinals
+1937,BOS,A,Boston,Red Sox
+1937,CHA,A,Chicago,White Sox
+1937,CLE,A,Cleveland,Indians
+1937,DET,A,Detroit,Tigers
+1937,NYA,A,New York,Yankees
+1937,PHA,A,Philadelphia,Athletics
+1937,SLA,A,St.Louis,Browns
+1937,WS1,A,Washington,Senators
+1937,BRO,N,Brooklyn,Robins
+1937,BSN,N,Boston,Bees
+1937,CHN,N,Chicago,Cubs
+1937,CIN,N,Cincinnati,Reds
+1937,NY1,N,New York,Giants
+1937,PHI,N,Philadelphia,Phillies
+1937,PIT,N,Pittsburgh,Pirates
+1937,SLN,N,St.Louis,Cardinals
+1938,BOS,A,Boston,Red Sox
+1938,CHA,A,Chicago,White Sox
+1938,CLE,A,Cleveland,Indians
+1938,DET,A,Detroit,Tigers
+1938,NYA,A,New York,Yankees
+1938,PHA,A,Philadelphia,Athletics
+1938,SLA,A,St.Louis,Browns
+1938,WS1,A,Washington,Senators
+1938,BRO,N,Brooklyn,Dodgers
+1938,BSN,N,Boston,Bees
+1938,CHN,N,Chicago,Cubs
+1938,CIN,N,Cincinnati,Reds
+1938,NY1,N,New York,Giants
+1938,PHI,N,Philadelphia,Phillies
+1938,PIT,N,Pittsburgh,Pirates
+1938,SLN,N,St.Louis,Cardinals
+1939,BOS,A,Boston,Red Sox
+1939,CHA,A,Chicago,White Sox
+1939,CLE,A,Cleveland,Indians
+1939,DET,A,Detroit,Tigers
+1939,NYA,A,New York,Yankees
+1939,PHA,A,Philadelphia,Athletics
+1939,SLA,A,St.Louis,Browns
+1939,WS1,A,Washington,Senators
+1939,BRO,N,Brooklyn,Dodgers
+1939,BSN,N,Boston,Bees
+1939,CHN,N,Chicago,Cubs
+1939,CIN,N,Cincinnati,Reds
+1939,NY1,N,New York,Giants
+1939,PHI,N,Philadelphia,Phillies
+1939,PIT,N,Pittsburgh,Pirates
+1939,SLN,N,St.Louis,Cardinals
+1940,BOS,A,Boston,Red Sox
+1940,CHA,A,Chicago,White Sox
+1940,CLE,A,Cleveland,Indians
+1940,DET,A,Detroit,Tigers
+1940,NYA,A,New York,Yankees
+1940,PHA,A,Philadelphia,Athletics
+1940,SLA,A,St.Louis,Browns
+1940,WS1,A,Washington,Senators
+1940,BRO,N,Brooklyn,Dodgers
+1940,BSN,N,Boston,Braves
+1940,CHN,N,Chicago,Cubs
+1940,CIN,N,Cincinnati,Reds
+1940,NY1,N,New York,Giants
+1940,PHI,N,Philadelphia,Phillies
+1940,PIT,N,Pittsburgh,Pirates
+1940,SLN,N,St.Louis,Cardinals
+1941,BOS,A,Boston,Red Sox
+1941,CHA,A,Chicago,White Sox
+1941,CLE,A,Cleveland,Indians
+1941,DET,A,Detroit,Tigers
+1941,NYA,A,New York,Yankees
+1941,PHA,A,Philadelphia,Athletics
+1941,SLA,A,St.Louis,Browns
+1941,WS1,A,Washington,Senators
+1941,BRO,N,Brooklyn,Dodgers
+1941,BSN,N,Boston,Braves
+1941,CHN,N,Chicago,Cubs
+1941,CIN,N,Cincinnati,Reds
+1941,NY1,N,New York,Giants
+1941,PHI,N,Philadelphia,Phillies
+1941,PIT,N,Pittsburgh,Pirates
+1941,SLN,N,St.Louis,Cardinals
+1942,BOS,A,Boston,Red Sox
+1942,CHA,A,Chicago,White Sox
+1942,CLE,A,Cleveland,Indians
+1942,DET,A,Detroit,Tigers
+1942,NYA,A,New York,Yankees
+1942,PHA,A,Philadelphia,Athletics
+1942,SLA,A,St.Louis,Browns
+1942,WS1,A,Washington,Senators
+1942,BRO,N,Brooklyn,Dodgers
+1942,BSN,N,Boston,Braves
+1942,CHN,N,Chicago,Cubs
+1942,CIN,N,Cincinnati,Reds
+1942,NY1,N,New York,Giants
+1942,PHI,N,Philadelphia,Phillies
+1942,PIT,N,Pittsburgh,Pirates
+1942,SLN,N,St.Louis,Cardinals
+1943,BOS,A,Boston,Red Sox
+1943,CHA,A,Chicago,White Sox
+1943,CLE,A,Cleveland,Indians
+1943,DET,A,Detroit,Tigers
+1943,NYA,A,New York,Yankees
+1943,PHA,A,Philadelphia,Athletics
+1943,SLA,A,St.Louis,Browns
+1943,WS1,A,Washington,Senators
+1943,BRO,N,Brooklyn,Dodgers
+1943,BSN,N,Boston,Braves
+1943,CHN,N,Chicago,Cubs
+1943,CIN,N,Cincinnati,Reds
+1943,NY1,N,New York,Giants
+1943,PHI,N,Philadelphia,Phillies
+1943,PIT,N,Pittsburgh,Pirates
+1943,SLN,N,St.Louis,Cardinals
+1944,BOS,A,Boston,Red Sox
+1944,CHA,A,Chicago,White Sox
+1944,CLE,A,Cleveland,Indians
+1944,DET,A,Detroit,Tigers
+1944,NYA,A,New York,Yankees
+1944,PHA,A,Philadelphia,Athletics
+1944,SLA,A,St.Louis,Browns
+1944,WS1,A,Washington,Senators
+1944,BRO,N,Brooklyn,Dodgers
+1944,BSN,N,Boston,Braves
+1944,CHN,N,Chicago,Cubs
+1944,CIN,N,Cincinnati,Reds
+1944,NY1,N,New York,Giants
+1944,PHI,N,Philadelphia,Phillies
+1944,PIT,N,Pittsburgh,Pirates
+1944,SLN,N,St.Louis,Cardinals
+1945,BOS,A,Boston,Red Sox
+1945,CHA,A,Chicago,White Sox
+1945,CLE,A,Cleveland,Indians
+1945,DET,A,Detroit,Tigers
+1945,NYA,A,New York,Yankees
+1945,PHA,A,Philadelphia,Athletics
+1945,SLA,A,St.Louis,Browns
+1945,WS1,A,Washington,Senators
+1945,BRO,N,Brooklyn,Dodgers
+1945,BSN,N,Boston,Braves
+1945,CHN,N,Chicago,Cubs
+1945,CIN,N,Cincinnati,Reds
+1945,NY1,N,New York,Giants
+1945,PHI,N,Philadelphia,Phillies
+1945,PIT,N,Pittsburgh,Pirates
+1945,SLN,N,St.Louis,Cardinals
+1946,BOS,A,Boston,Red Sox
+1946,CHA,A,Chicago,White Sox
+1946,CLE,A,Cleveland,Indians
+1946,DET,A,Detroit,Tigers
+1946,NYA,A,New York,Yankees
+1946,PHA,A,Philadelphia,Athletics
+1946,SLA,A,St.Louis,Browns
+1946,WS1,A,Washington,Senators
+1946,BRO,N,Brooklyn,Dodgers
+1946,BSN,N,Boston,Braves
+1946,CHN,N,Chicago,Cubs
+1946,CIN,N,Cincinnati,Reds
+1946,NY1,N,New York,Giants
+1946,PHI,N,Philadelphia,Phillies
+1946,PIT,N,Pittsburgh,Pirates
+1946,SLN,N,St.Louis,Cardinals
+1947,BOS,A,Boston,Red Sox
+1947,CHA,A,Chicago,White Sox
+1947,CLE,A,Cleveland,Indians
+1947,DET,A,Detroit,Tigers
+1947,NYA,A,New York,Yankees
+1947,PHA,A,Philadelphia,Athletics
+1947,SLA,A,St.Louis,Browns
+1947,WS1,A,Washington,Senators
+1947,BRO,N,Brooklyn,Dodgers
+1947,BSN,N,Boston,Braves
+1947,CHN,N,Chicago,Cubs
+1947,CIN,N,Cincinnati,Reds
+1947,NY1,N,New York,Giants
+1947,PHI,N,Philadelphia,Phillies
+1947,PIT,N,Pittsburgh,Pirates
+1947,SLN,N,St.Louis,Cardinals
+1948,BOS,A,Boston,Red Sox
+1948,CHA,A,Chicago,White Sox
+1948,CLE,A,Cleveland,Indians
+1948,DET,A,Detroit,Tigers
+1948,NYA,A,New York,Yankees
+1948,PHA,A,Philadelphia,Athletics
+1948,SLA,A,St.Louis,Browns
+1948,WS1,A,Washington,Senators
+1948,BRO,N,Brooklyn,Dodgers
+1948,BSN,N,Boston,Braves
+1948,CHN,N,Chicago,Cubs
+1948,CIN,N,Cincinnati,Reds
+1948,NY1,N,New York,Giants
+1948,PHI,N,Philadelphia,Phillies
+1948,PIT,N,Pittsburgh,Pirates
+1948,SLN,N,St.Louis,Cardinals
+1949,BOS,A,Boston,Red Sox
+1949,CHA,A,Chicago,White Sox
+1949,CLE,A,Cleveland,Indians
+1949,DET,A,Detroit,Tigers
+1949,NYA,A,New York,Yankees
+1949,PHA,A,Philadelphia,Athletics
+1949,SLA,A,St.Louis,Browns
+1949,WS1,A,Washington,Senators
+1949,BRO,N,Brooklyn,Dodgers
+1949,BSN,N,Boston,Braves
+1949,CHN,N,Chicago,Cubs
+1949,CIN,N,Cincinnati,Reds
+1949,NY1,N,New York,Giants
+1949,PHI,N,Philadelphia,Phillies
+1949,PIT,N,Pittsburgh,Pirates
+1949,SLN,N,St.Louis,Cardinals
+1950,BOS,A,Boston,Red Sox
+1950,CHA,A,Chicago,White Sox
+1950,CLE,A,Cleveland,Indians
+1950,DET,A,Detroit,Tigers
+1950,NYA,A,New York,Yankees
+1950,PHA,A,Philadelphia,Athletics
+1950,SLA,A,St.Louis,Browns
+1950,WS1,A,Washington,Senators
+1950,BRO,N,Brooklyn,Dodgers
+1950,BSN,N,Boston,Braves
+1950,CHN,N,Chicago,Cubs
+1950,CIN,N,Cincinnati,Reds
+1950,NY1,N,New York,Giants
+1950,PHI,N,Philadelphia,Phillies
+1950,PIT,N,Pittsburgh,Pirates
+1950,SLN,N,St.Louis,Cardinals
+1951,BOS,A,Boston,Red Sox
+1951,CHA,A,Chicago,White Sox
+1951,CLE,A,Cleveland,Indians
+1951,DET,A,Detroit,Tigers
+1951,NYA,A,New York,Yankees
+1951,PHA,A,Philadelphia,Athletics
+1951,SLA,A,St.Louis,Browns
+1951,WS1,A,Washington,Senators
+1951,BRO,N,Brooklyn,Dodgers
+1951,BSN,N,Boston,Braves
+1951,CHN,N,Chicago,Cubs
+1951,CIN,N,Cincinnati,Reds
+1951,NY1,N,New York,Giants
+1951,PHI,N,Philadelphia,Phillies
+1951,PIT,N,Pittsburgh,Pirates
+1951,SLN,N,St.Louis,Cardinals
+1952,BOS,A,Boston,Red Sox
+1952,CHA,A,Chicago,White Sox
+1952,CLE,A,Cleveland,Indians
+1952,DET,A,Detroit,Tigers
+1952,NYA,A,New York,Yankees
+1952,PHA,A,Philadelphia,Athletics
+1952,SLA,A,St.Louis,Browns
+1952,WS1,A,Washington,Senators
+1952,BRO,N,Brooklyn,Dodgers
+1952,BSN,N,Boston,Braves
+1952,CHN,N,Chicago,Cubs
+1952,CIN,N,Cincinnati,Reds
+1952,NY1,N,New York,Giants
+1952,PHI,N,Philadelphia,Phillies
+1952,PIT,N,Pittsburgh,Pirates
+1952,SLN,N,St.Louis,Cardinals
+1953,BOS,A,Boston,Red Sox
+1953,CHA,A,Chicago,White Sox
+1953,CLE,A,Cleveland,Indians
+1953,DET,A,Detroit,Tigers
+1953,NYA,A,New York,Yankees
+1953,PHA,A,Philadelphia,Athletics
+1953,SLA,A,St.Louis,Browns
+1953,WS1,A,Washington,Senators
+1953,BRO,N,Brooklyn,Dodgers
+1953,CHN,N,Chicago,Cubs
+1953,CIN,N,Cincinnati,Reds
+1953,MLN,N,Milwaukee,Braves
+1953,NY1,N,New York,Giants
+1953,PHI,N,Philadelphia,Phillies
+1953,PIT,N,Pittsburgh,Pirates
+1953,SLN,N,St.Louis,Cardinals
+1954,BAL,A,Baltimore,Orioles
+1954,BOS,A,Boston,Red Sox
+1954,CHA,A,Chicago,White Sox
+1954,CLE,A,Cleveland,Indians
+1954,DET,A,Detroit,Tigers
+1954,NYA,A,New York,Yankees
+1954,PHA,A,Philadelphia,Athletics
+1954,WS1,A,Washington,Senators
+1954,BRO,N,Brooklyn,Dodgers
+1954,CHN,N,Chicago,Cubs
+1954,CIN,N,Cincinnati,Reds
+1954,MLN,N,Milwaukee,Braves
+1954,NY1,N,New York,Giants
+1954,PHI,N,Philadelphia,Phillies
+1954,PIT,N,Pittsburgh,Pirates
+1954,SLN,N,St.Louis,Cardinals
+1955,BAL,A,Baltimore,Orioles
+1955,BOS,A,Boston,Red Sox
+1955,CHA,A,Chicago,White Sox
+1955,CLE,A,Cleveland,Indians
+1955,DET,A,Detroit,Tigers
+1955,KC1,A,Kansas City,Athletics
+1955,NYA,A,New York,Yankees
+1955,WS1,A,Washington,Senators
+1955,BRO,N,Brooklyn,Dodgers
+1955,CHN,N,Chicago,Cubs
+1955,CIN,N,Cincinnati,Reds
+1955,MLN,N,Milwaukee,Braves
+1955,NY1,N,New York,Giants
+1955,PHI,N,Philadelphia,Phillies
+1955,PIT,N,Pittsburgh,Pirates
+1955,SLN,N,St.Louis,Cardinals
+1956,BAL,A,Baltimore,Orioles
+1956,BOS,A,Boston,Red Sox
+1956,CHA,A,Chicago,White Sox
+1956,CLE,A,Cleveland,Indians
+1956,DET,A,Detroit,Tigers
+1956,KC1,A,Kansas City,Athletics
+1956,NYA,A,New York,Yankees
+1956,WS1,A,Washington,Senators
+1956,BRO,N,Brooklyn,Dodgers
+1956,CHN,N,Chicago,Cubs
+1956,CIN,N,Cincinnati,Reds
+1956,MLN,N,Milwaukee,Braves
+1956,NY1,N,New York,Giants
+1956,PHI,N,Philadelphia,Phillies
+1956,PIT,N,Pittsburgh,Pirates
+1956,SLN,N,St.Louis,Cardinals
+1957,BAL,A,Baltimore,Orioles
+1957,BOS,A,Boston,Red Sox
+1957,CHA,A,Chicago,White Sox
+1957,CLE,A,Cleveland,Indians
+1957,DET,A,Detroit,Tigers
+1957,KC1,A,Kansas City,Athletics
+1957,NYA,A,New York,Yankees
+1957,WS1,A,Washington,Senators
+1957,BRO,N,Brooklyn,Dodgers
+1957,CHN,N,Chicago,Cubs
+1957,CIN,N,Cincinnati,Reds
+1957,MLN,N,Milwaukee,Braves
+1957,NY1,N,New York,Giants
+1957,PHI,N,Philadelphia,Phillies
+1957,PIT,N,Pittsburgh,Pirates
+1957,SLN,N,St.Louis,Cardinals
+1958,BAL,A,Baltimore,Orioles
+1958,BOS,A,Boston,Red Sox
+1958,CHA,A,Chicago,White Sox
+1958,CLE,A,Cleveland,Indians
+1958,DET,A,Detroit,Tigers
+1958,KC1,A,Kansas City,Athletics
+1958,NYA,A,New York,Yankees
+1958,WS1,A,Washington,Senators
+1958,CHN,N,Chicago,Cubs
+1958,CIN,N,Cincinnati,Reds
+1958,LAN,N,Los Angeles,Dodgers
+1958,MLN,N,Milwaukee,Braves
+1958,PHI,N,Philadelphia,Phillies
+1958,PIT,N,Pittsburgh,Pirates
+1958,SLN,N,St.Louis,Cardinals
+1958,SFN,N,San Francisco,Giants
+1959,BAL,A,Baltimore,Orioles
+1959,BOS,A,Boston,Red Sox
+1959,CHA,A,Chicago,White Sox
+1959,CLE,A,Cleveland,Indians
+1959,DET,A,Detroit,Tigers
+1959,KC1,A,Kansas City,Athletics
+1959,NYA,A,New York,Yankees
+1959,WS1,A,Washington,Senators
+1959,CHN,N,Chicago,Cubs
+1959,CIN,N,Cincinnati,Reds
+1959,LAN,N,Los Angeles,Dodgers
+1959,MLN,N,Milwaukee,Braves
+1959,PHI,N,Philadelphia,Phillies
+1959,PIT,N,Pittsburgh,Pirates
+1959,SLN,N,St.Louis,Cardinals
+1959,SFN,N,San Francisco,Giants
+1960,BAL,A,Baltimore,Orioles
+1960,BOS,A,Boston,Red Sox
+1960,CHA,A,Chicago,White Sox
+1960,CLE,A,Cleveland,Indians
+1960,DET,A,Detroit,Tigers
+1960,KC1,A,Kansas City,Athletics
+1960,NYA,A,New York,Yankees
+1960,WS1,A,Washington,Senators
+1960,CHN,N,Chicago,Cubs
+1960,CIN,N,Cincinnati,Reds
+1960,LAN,N,Los Angeles,Dodgers
+1960,MLN,N,Milwaukee,Braves
+1960,PHI,N,Philadelphia,Phillies
+1960,PIT,N,Pittsburgh,Pirates
+1960,SLN,N,St.Louis,Cardinals
+1960,SFN,N,San Francisco,Giants
+1961,BAL,A,Baltimore,Orioles
+1961,BOS,A,Boston,Red Sox
+1961,CHA,A,Chicago,White Sox
+1961,CLE,A,Cleveland,Indians
+1961,DET,A,Detroit,Tigers
+1961,KC1,A,Kansas City,Athletics
+1961,LAA,A,Los Angeles,Angels
+1961,MIN,A,Minnesota,Twins
+1961,NYA,A,New York,Yankees
+1961,WS2,A,Washington,Senators
+1961,CHN,N,Chicago,Cubs
+1961,CIN,N,Cincinnati,Reds
+1961,LAN,N,Los Angeles,Dodgers
+1961,MLN,N,Milwaukee,Braves
+1961,PHI,N,Philadelphia,Phillies
+1961,PIT,N,Pittsburgh,Pirates
+1961,SLN,N,St.Louis,Cardinals
+1961,SFN,N,San Francisco,Giants
+1962,BAL,A,Baltimore,Orioles
+1962,BOS,A,Boston,Red Sox
+1962,CHA,A,Chicago,White Sox
+1962,CLE,A,Cleveland,Indians
+1962,DET,A,Detroit,Tigers
+1962,KC1,A,Kansas City,Athletics
+1962,LAA,A,Los Angeles,Angels
+1962,MIN,A,Minnesota,Twins
+1962,NYA,A,New York,Yankees
+1962,WS2,A,Washington,Senators
+1962,CHN,N,Chicago,Cubs
+1962,CIN,N,Cincinnati,Reds
+1962,HOU,N,Houston,Colts
+1962,LAN,N,Los Angeles,Dodgers
+1962,MLN,N,Milwaukee,Braves
+1962,NYN,N,New York,Mets
+1962,PHI,N,Philadelphia,Phillies
+1962,PIT,N,Pittsburgh,Pirates
+1962,SLN,N,St.Louis,Cardinals
+1962,SFN,N,San Francisco,Giants
+1963,BAL,A,Baltimore,Orioles
+1963,BOS,A,Boston,Red Sox
+1963,CHA,A,Chicago,White Sox
+1963,CLE,A,Cleveland,Indians
+1963,DET,A,Detroit,Tigers
+1963,KC1,A,Kansas City,Athletics
+1963,LAA,A,Los Angeles,Angels
+1963,MIN,A,Minnesota,Twins
+1963,NYA,A,New York,Yankees
+1963,WS2,A,Washington,Senators
+1963,CHN,N,Chicago,Cubs
+1963,CIN,N,Cincinnati,Reds
+1963,HOU,N,Houston,Colts
+1963,LAN,N,Los Angeles,Dodgers
+1963,MLN,N,Milwaukee,Braves
+1963,NYN,N,New York,Mets
+1963,PHI,N,Philadelphia,Phillies
+1963,PIT,N,Pittsburgh,Pirates
+1963,SLN,N,St.Louis,Cardinals
+1963,SFN,N,San Francisco,Giants
+1964,BAL,A,Baltimore,Orioles
+1964,BOS,A,Boston,Red Sox
+1964,CHA,A,Chicago,White Sox
+1964,CLE,A,Cleveland,Indians
+1964,DET,A,Detroit,Tigers
+1964,KC1,A,Kansas City,Athletics
+1964,LAA,A,Los Angeles,Angels
+1964,MIN,A,Minnesota,Twins
+1964,NYA,A,New York,Yankees
+1964,WS2,A,Washington,Senators
+1964,CHN,N,Chicago,Cubs
+1964,CIN,N,Cincinnati,Reds
+1964,HOU,N,Houston,Colts
+1964,LAN,N,Los Angeles,Dodgers
+1964,MLN,N,Milwaukee,Braves
+1964,NYN,N,New York,Mets
+1964,PHI,N,Philadelphia,Phillies
+1964,PIT,N,Pittsburgh,Pirates
+1964,SLN,N,St.Louis,Cardinals
+1964,SFN,N,San Francisco,Giants
+1965,BAL,A,Baltimore,Orioles
+1965,BOS,A,Boston,Red Sox
+1965,CAL,A,California,Angels
+1965,CHA,A,Chicago,White Sox
+1965,CLE,A,Cleveland,Indians
+1965,DET,A,Detroit,Tigers
+1965,KC1,A,Kansas City,Athletics
+1965,MIN,A,Minnesota,Twins
+1965,NYA,A,New York,Yankees
+1965,WS2,A,Washington,Senators
+1965,CHN,N,Chicago,Cubs
+1965,CIN,N,Cincinnati,Reds
+1965,HOU,N,Houston,Astros
+1965,LAN,N,Los Angeles,Dodgers
+1965,MLN,N,Milwaukee,Braves
+1965,NYN,N,New York,Mets
+1965,PHI,N,Philadelphia,Phillies
+1965,PIT,N,Pittsburgh,Pirates
+1965,SLN,N,St.Louis,Cardinals
+1965,SFN,N,San Francisco,Giants
+1966,BAL,A,Baltimore,Orioles
+1966,BOS,A,Boston,Red Sox
+1966,CAL,A,California,Angels
+1966,CHA,A,Chicago,White Sox
+1966,CLE,A,Cleveland,Indians
+1966,DET,A,Detroit,Tigers
+1966,KC1,A,Kansas City,Athletics
+1966,MIN,A,Minnesota,Twins
+1966,NYA,A,New York,Yankees
+1966,WS2,A,Washington,Senators
+1966,ATL,N,Atlanta,Braves
+1966,CHN,N,Chicago,Cubs
+1966,CIN,N,Cincinnati,Reds
+1966,HOU,N,Houston,Astros
+1966,LAN,N,Los Angeles,Dodgers
+1966,NYN,N,New York,Mets
+1966,PHI,N,Philadelphia,Phillies
+1966,PIT,N,Pittsburgh,Pirates
+1966,SLN,N,St.Louis,Cardinals
+1966,SFN,N,San Francisco,Giants
+1967,BAL,A,Baltimore,Orioles
+1967,BOS,A,Boston,Red Sox
+1967,CAL,A,California,Angels
+1967,CHA,A,Chicago,White Sox
+1967,CLE,A,Cleveland,Indians
+1967,DET,A,Detroit,Tigers
+1967,KC1,A,Kansas City,Athletics
+1967,MIN,A,Minnesota,Twins
+1967,NYA,A,New York,Yankees
+1967,WS2,A,Washington,Senators
+1967,ATL,N,Atlanta,Braves
+1967,CHN,N,Chicago,Cubs
+1967,CIN,N,Cincinnati,Reds
+1967,HOU,N,Houston,Astros
+1967,LAN,N,Los Angeles,Dodgers
+1967,NYN,N,New York,Mets
+1967,PHI,N,Philadelphia,Phillies
+1967,PIT,N,Pittsburgh,Pirates
+1967,SLN,N,St.Louis,Cardinals
+1967,SFN,N,San Francisco,Giants
+1968,BAL,A,Baltimore,Orioles
+1968,BOS,A,Boston,Red Sox
+1968,CAL,A,California,Angels
+1968,CHA,A,Chicago,White Sox
+1968,CLE,A,Cleveland,Indians
+1968,DET,A,Detroit,Tigers
+1968,MIN,A,Minnesota,Twins
+1968,NYA,A,New York,Yankees
+1968,OAK,A,Oakland,Athletics
+1968,WS2,A,Washington,Senators
+1968,ATL,N,Atlanta,Braves
+1968,CHN,N,Chicago,Cubs
+1968,CIN,N,Cincinnati,Reds
+1968,HOU,N,Houston,Astros
+1968,LAN,N,Los Angeles,Dodgers
+1968,NYN,N,New York,Mets
+1968,PHI,N,Philadelphia,Phillies
+1968,PIT,N,Pittsburgh,Pirates
+1968,SLN,N,St.Louis,Cardinals
+1968,SFN,N,San Francisco,Giants
+1969,BAL,A,Baltimore,Orioles
+1969,BOS,A,Boston,Red Sox
+1969,CLE,A,Cleveland,Indians
+1969,DET,A,Detroit,Tigers
+1969,NYA,A,New York,Yankees
+1969,WS2,A,Washington,Senators
+1969,CAL,A,California,Angels
+1969,CHA,A,Chicago,White Sox
+1969,KCA,A,Kansas City,Royals
+1969,MIN,A,Minnesota,Twins
+1969,OAK,A,Oakland,Athletics
+1969,SE1,A,Seattle,Pilots
+1969,CHN,N,Chicago,Cubs
+1969,MON,N,Montreal,Expos
+1969,NYN,N,New York,Mets
+1969,PHI,N,Philadelphia,Phillies
+1969,PIT,N,Pittsburgh,Pirates
+1969,SLN,N,St.Louis,Cardinals
+1969,ATL,N,Atlanta,Braves
+1969,CIN,N,Cincinnati,Reds
+1969,HOU,N,Houston,Astros
+1969,LAN,N,Los Angeles,Dodgers
+1969,SDN,N,San Diego,Padres
+1969,SFN,N,San Francisco,Giants
+1970,BAL,A,Baltimore,Orioles
+1970,BOS,A,Boston,Red Sox
+1970,CLE,A,Cleveland,Indians
+1970,DET,A,Detroit,Tigers
+1970,MIL,A,Milwaukee,Brewers
+1970,NYA,A,New York,Yankees
+1970,WS2,A,Washington,Senators
+1970,CAL,A,California,Angels
+1970,CHA,A,Chicago,White Sox
+1970,KCA,A,Kansas City,Royals
+1970,MIN,A,Minnesota,Twins
+1970,OAK,A,Oakland,Athletics
+1970,CHN,N,Chicago,Cubs
+1970,MON,N,Montreal,Expos
+1970,NYN,N,New York,Mets
+1970,PHI,N,Philadelphia,Phillies
+1970,PIT,N,Pittsburgh,Pirates
+1970,SLN,N,St.Louis,Cardinals
+1970,ATL,N,Atlanta,Braves
+1970,CIN,N,Cincinnati,Reds
+1970,HOU,N,Houston,Astros
+1970,LAN,N,Los Angeles,Dodgers
+1970,SDN,N,San Diego,Padres
+1970,SFN,N,San Francisco,Giants
+1971,BAL,A,Baltimore,Orioles
+1971,BOS,A,Boston,Red Sox
+1971,CLE,A,Cleveland,Indians
+1971,DET,A,Detroit,Tigers
+1971,MIL,A,Milwaukee,Brewers
+1971,NYA,A,New York,Yankees
+1971,WS2,A,Washington,Senators
+1971,CAL,A,California,Angels
+1971,CHA,A,Chicago,White Sox
+1971,KCA,A,Kansas City,Royals
+1971,MIN,A,Minnesota,Twins
+1971,OAK,A,Oakland,Athletics
+1971,CHN,N,Chicago,Cubs
+1971,MON,N,Montreal,Expos
+1971,NYN,N,New York,Mets
+1971,PHI,N,Philadelphia,Phillies
+1971,PIT,N,Pittsburgh,Pirates
+1971,SLN,N,St.Louis,Cardinals
+1971,ATL,N,Atlanta,Braves
+1971,CIN,N,Cincinnati,Reds
+1971,HOU,N,Houston,Astros
+1971,LAN,N,Los Angeles,Dodgers
+1971,SDN,N,San Diego,Padres
+1971,SFN,N,San Francisco,Giants
+1972,BAL,A,Baltimore,Orioles
+1972,BOS,A,Boston,Red Sox
+1972,CLE,A,Cleveland,Indians
+1972,DET,A,Detroit,Tigers
+1972,MIL,A,Milwaukee,Brewers
+1972,NYA,A,New York,Yankees
+1972,CAL,A,California,Angels
+1972,CHA,A,Chicago,White Sox
+1972,KCA,A,Kansas City,Royals
+1972,MIN,A,Minnesota,Twins
+1972,OAK,A,Oakland,Athletics
+1972,TEX,A,Texas,Rangers
+1972,CHN,N,Chicago,Cubs
+1972,MON,N,Montreal,Expos
+1972,NYN,N,New York,Mets
+1972,PHI,N,Philadelphia,Phillies
+1972,PIT,N,Pittsburgh,Pirates
+1972,SLN,N,St.Louis,Cardinals
+1972,ATL,N,Atlanta,Braves
+1972,CIN,N,Cincinnati,Reds
+1972,HOU,N,Houston,Astros
+1972,LAN,N,Los Angeles,Dodgers
+1972,SDN,N,San Diego,Padres
+1972,SFN,N,San Francisco,Giants
+1973,BAL,A,Baltimore,Orioles
+1973,BOS,A,Boston,Red Sox
+1973,CLE,A,Cleveland,Indians
+1973,DET,A,Detroit,Tigers
+1973,MIL,A,Milwaukee,Brewers
+1973,NYA,A,New York,Yankees
+1973,CAL,A,California,Angels
+1973,CHA,A,Chicago,White Sox
+1973,KCA,A,Kansas City,Royals
+1973,MIN,A,Minnesota,Twins
+1973,OAK,A,Oakland,Athletics
+1973,TEX,A,Texas,Rangers
+1973,CHN,N,Chicago,Cubs
+1973,MON,N,Montreal,Expos
+1973,NYN,N,New York,Mets
+1973,PHI,N,Philadelphia,Phillies
+1973,PIT,N,Pittsburgh,Pirates
+1973,SLN,N,St.Louis,Cardinals
+1973,ATL,N,Atlanta,Braves
+1973,CIN,N,Cincinnati,Reds
+1973,HOU,N,Houston,Astros
+1973,LAN,N,Los Angeles,Dodgers
+1973,SDN,N,San Diego,Padres
+1973,SFN,N,San Francisco,Giants
+1974,BAL,A,Baltimore,Orioles
+1974,BOS,A,Boston,Red Sox
+1974,CLE,A,Cleveland,Indians
+1974,DET,A,Detroit,Tigers
+1974,MIL,A,Milwaukee,Brewers
+1974,NYA,A,New York,Yankees
+1974,CAL,A,California,Angels
+1974,CHA,A,Chicago,White Sox
+1974,KCA,A,Kansas City,Royals
+1974,MIN,A,Minnesota,Twins
+1974,OAK,A,Oakland,Athletics
+1974,TEX,A,Texas,Rangers
+1974,CHN,N,Chicago,Cubs
+1974,MON,N,Montreal,Expos
+1974,NYN,N,New York,Mets
+1974,PHI,N,Philadelphia,Phillies
+1974,PIT,N,Pittsburgh,Pirates
+1974,SLN,N,St.Louis,Cardinals
+1974,ATL,N,Atlanta,Braves
+1974,CIN,N,Cincinnati,Reds
+1974,HOU,N,Houston,Astros
+1974,LAN,N,Los Angeles,Dodgers
+1974,SDN,N,San Diego,Padres
+1974,SFN,N,San Francisco,Giants
+1975,BAL,A,Baltimore,Orioles
+1975,BOS,A,Boston,Red Sox
+1975,CLE,A,Cleveland,Indians
+1975,DET,A,Detroit,Tigers
+1975,MIL,A,Milwaukee,Brewers
+1975,NYA,A,New York,Yankees
+1975,CAL,A,California,Angels
+1975,CHA,A,Chicago,White Sox
+1975,KCA,A,Kansas City,Royals
+1975,MIN,A,Minnesota,Twins
+1975,OAK,A,Oakland,Athletics
+1975,TEX,A,Texas,Rangers
+1975,CHN,N,Chicago,Cubs
+1975,MON,N,Montreal,Expos
+1975,NYN,N,New York,Mets
+1975,PHI,N,Philadelphia,Phillies
+1975,PIT,N,Pittsburgh,Pirates
+1975,SLN,N,St.Louis,Cardinals
+1975,ATL,N,Atlanta,Braves
+1975,CIN,N,Cincinnati,Reds
+1975,HOU,N,Houston,Astros
+1975,LAN,N,Los Angeles,Dodgers
+1975,SDN,N,San Diego,Padres
+1975,SFN,N,San Francisco,Giants
+1976,BAL,A,Baltimore,Orioles
+1976,BOS,A,Boston,Red Sox
+1976,CLE,A,Cleveland,Indians
+1976,DET,A,Detroit,Tigers
+1976,MIL,A,Milwaukee,Brewers
+1976,NYA,A,New York,Yankees
+1976,CAL,A,California,Angels
+1976,CHA,A,Chicago,White Sox
+1976,KCA,A,Kansas City,Royals
+1976,MIN,A,Minnesota,Twins
+1976,OAK,A,Oakland,Athletics
+1976,TEX,A,Texas,Rangers
+1976,CHN,N,Chicago,Cubs
+1976,MON,N,Montreal,Expos
+1976,NYN,N,New York,Mets
+1976,PHI,N,Philadelphia,Phillies
+1976,PIT,N,Pittsburgh,Pirates
+1976,SLN,N,St.Louis,Cardinals
+1976,ATL,N,Atlanta,Braves
+1976,CIN,N,Cincinnati,Reds
+1976,HOU,N,Houston,Astros
+1976,LAN,N,Los Angeles,Dodgers
+1976,SDN,N,San Diego,Padres
+1976,SFN,N,San Francisco,Giants
+1977,BAL,A,Baltimore,Orioles
+1977,BOS,A,Boston,Red Sox
+1977,CLE,A,Cleveland,Indians
+1977,DET,A,Detroit,Tigers
+1977,MIL,A,Milwaukee,Brewers
+1977,NYA,A,New York,Yankees
+1977,TOR,A,Toronto,Blue Jays
+1977,CAL,A,California,Angels
+1977,CHA,A,Chicago,White Sox
+1977,KCA,A,Kansas City,Royals
+1977,MIN,A,Minnesota,Twins
+1977,OAK,A,Oakland,Athletics
+1977,SEA,A,Seattle,Mariners
+1977,TEX,A,Texas,Rangers
+1977,CHN,N,Chicago,Cubs
+1977,MON,N,Montreal,Expos
+1977,NYN,N,New York,Mets
+1977,PHI,N,Philadelphia,Phillies
+1977,PIT,N,Pittsburgh,Pirates
+1977,SLN,N,St. Louis,Cardinals
+1977,ATL,N,Atlanta,Braves
+1977,CIN,N,Cincinnati,Reds
+1977,HOU,N,Houston,Astros
+1977,LAN,N,Los Angeles,Dodgers
+1977,SDN,N,San Diego,Padres
+1977,SFN,N,San Francisco,Giants
+1978,BAL,A,Baltimore,Orioles
+1978,BOS,A,Boston,Red Sox
+1978,CLE,A,Cleveland,Indians
+1978,DET,A,Detroit,Tigers
+1978,MIL,A,Milwaukee,Brewers
+1978,NYA,A,New York,Yankees
+1978,TOR,A,Toronto,Blue Jays
+1978,CAL,A,California,Angels
+1978,CHA,A,Chicago,White Sox
+1978,KCA,A,Kansas City,Royals
+1978,MIN,A,Minnesota,Twins
+1978,OAK,A,Oakland,Athletics
+1978,SEA,A,Seattle,Mariners
+1978,TEX,A,Texas,Rangers
+1978,CHN,N,Chicago,Cubs
+1978,MON,N,Montreal,Expos
+1978,NYN,N,New York,Mets
+1978,PHI,N,Philadelphia,Phillies
+1978,PIT,N,Pittsburgh,Pirates
+1978,SLN,N,St. Louis,Cardinals
+1978,ATL,N,Atlanta,Braves
+1978,CIN,N,Cincinnati,Reds
+1978,HOU,N,Houston,Astros
+1978,LAN,N,Los Angeles,Dodgers
+1978,SDN,N,San Diego,Padres
+1978,SFN,N,San Francisco,Giants
+1979,BAL,A,Baltimore,Orioles
+1979,BOS,A,Boston,Red Sox
+1979,CLE,A,Cleveland,Indians
+1979,DET,A,Detroit,Tigers
+1979,MIL,A,Milwaukee,Brewers
+1979,NYA,A,New York,Yankees
+1979,TOR,A,Toronto,Blue Jays
+1979,CAL,A,California,Angels
+1979,CHA,A,Chicago,White Sox
+1979,KCA,A,Kansas City,Royals
+1979,MIN,A,Minnesota,Twins
+1979,OAK,A,Oakland,Athletics
+1979,SEA,A,Seattle,Mariners
+1979,TEX,A,Texas,Rangers
+1979,CHN,N,Chicago,Cubs
+1979,MON,N,Montreal,Expos
+1979,NYN,N,New York,Mets
+1979,PHI,N,Philadelphia,Phillies
+1979,PIT,N,Pittsburgh,Pirates
+1979,SLN,N,St. Louis,Cardinals
+1979,ATL,N,Atlanta,Braves
+1979,CIN,N,Cincinnati,Reds
+1979,HOU,N,Houston,Astros
+1979,LAN,N,Los Angeles,Dodgers
+1979,SDN,N,San Diego,Padres
+1979,SFN,N,San Francisco,Giants
+1980,BAL,A,Baltimore,Orioles
+1980,BOS,A,Boston,Red Sox
+1980,CLE,A,Cleveland,Indians
+1980,DET,A,Detroit,Tigers
+1980,MIL,A,Milwaukee,Brewers
+1980,NYA,A,New York,Yankees
+1980,TOR,A,Toronto,Blue Jays
+1980,CAL,A,California,Angels
+1980,CHA,A,Chicago,White Sox
+1980,KCA,A,Kansas City,Royals
+1980,MIN,A,Minnesota,Twins
+1980,OAK,A,Oakland,Athletics
+1980,SEA,A,Seattle,Mariners
+1980,TEX,A,Texas,Rangers
+1980,CHN,N,Chicago,Cubs
+1980,MON,N,Montreal,Expos
+1980,NYN,N,New York,Mets
+1980,PHI,N,Philadelphia,Phillies
+1980,PIT,N,Pittsburgh,Pirates
+1980,SLN,N,St. Louis,Cardinals
+1980,ATL,N,Atlanta,Braves
+1980,CIN,N,Cincinnati,Reds
+1980,HOU,N,Houston,Astros
+1980,LAN,N,Los Angeles,Dodgers
+1980,SDN,N,San Diego,Padres
+1980,SFN,N,San Francisco,Giants
+1981,BAL,A,Baltimore,Orioles
+1981,BOS,A,Boston,Red Sox
+1981,CLE,A,Cleveland,Indians
+1981,DET,A,Detroit,Tigers
+1981,MIL,A,Milwaukee,Brewers
+1981,NYA,A,New York,Yankees
+1981,TOR,A,Toronto,Blue Jays
+1981,CAL,A,California,Angels
+1981,CHA,A,Chicago,White Sox
+1981,KCA,A,Kansas City,Royals
+1981,MIN,A,Minnesota,Twins
+1981,OAK,A,Oakland,Athletics
+1981,SEA,A,Seattle,Mariners
+1981,TEX,A,Texas,Rangers
+1981,CHN,N,Chicago,Cubs
+1981,MON,N,Montreal,Expos
+1981,NYN,N,New York,Mets
+1981,PHI,N,Philadelphia,Phillies
+1981,PIT,N,Pittsburgh,Pirates
+1981,SLN,N,St. Louis,Cardinals
+1981,ATL,N,Atlanta,Braves
+1981,CIN,N,Cincinnati,Reds
+1981,HOU,N,Houston,Astros
+1981,LAN,N,Los Angeles,Dodgers
+1981,SDN,N,San Diego,Padres
+1981,SFN,N,San Francisco,Giants
+1982,BAL,A,Baltimore,Orioles
+1982,BOS,A,Boston,Red Sox
+1982,CLE,A,Cleveland,Indians
+1982,DET,A,Detroit,Tigers
+1982,MIL,A,Milwaukee,Brewers
+1982,NYA,A,New York,Yankees
+1982,TOR,A,Toronto,Blue Jays
+1982,CAL,A,California,Angels
+1982,CHA,A,Chicago,White Sox
+1982,KCA,A,Kansas City,Royals
+1982,MIN,A,Minnesota,Twins
+1982,OAK,A,Oakland,Athletics
+1982,SEA,A,Seattle,Mariners
+1982,TEX,A,Texas,Rangers
+1982,CHN,N,Chicago,Cubs
+1982,MON,N,Montreal,Expos
+1982,NYN,N,New York,Mets
+1982,PHI,N,Philadelphia,Phillies
+1982,PIT,N,Pittsburgh,Pirates
+1982,SLN,N,St. Louis,Cardinals
+1982,ATL,N,Atlanta,Braves
+1982,CIN,N,Cincinnati,Reds
+1982,HOU,N,Houston,Astros
+1982,LAN,N,Los Angeles,Dodgers
+1982,SDN,N,San Diego,Padres
+1982,SFN,N,San Francisco,Giants
+1983,BAL,A,Baltimore,Orioles
+1983,BOS,A,Boston,Red Sox
+1983,CLE,A,Cleveland,Indians
+1983,DET,A,Detroit,Tigers
+1983,MIL,A,Milwaukee,Brewers
+1983,NYA,A,New York,Yankees
+1983,TOR,A,Toronto,Blue Jays
+1983,CAL,A,California,Angels
+1983,CHA,A,Chicago,White Sox
+1983,KCA,A,Kansas City,Royals
+1983,MIN,A,Minnesota,Twins
+1983,OAK,A,Oakland,Athletics
+1983,SEA,A,Seattle,Mariners
+1983,TEX,A,Texas,Rangers
+1983,CHN,N,Chicago,Cubs
+1983,MON,N,Montreal,Expos
+1983,NYN,N,New York,Mets
+1983,PHI,N,Philadelphia,Phillies
+1983,PIT,N,Pittsburgh,Pirates
+1983,SLN,N,St. Louis,Cardinals
+1983,ATL,N,Atlanta,Braves
+1983,CIN,N,Cincinnati,Reds
+1983,HOU,N,Houston,Astros
+1983,LAN,N,Los Angeles,Dodgers
+1983,SDN,N,San Diego,Padres
+1983,SFN,N,San Francisco,Giants
+1984,BAL,A,Baltimore,Orioles
+1984,BOS,A,Boston,Red Sox
+1984,CAL,A,California,Angels
+1984,CHA,A,Chicago,White Sox
+1984,CLE,A,Cleveland,Indians
+1984,DET,A,Detroit,Tigers
+1984,KCA,A,Kansas City,Royals
+1984,MIL,A,Milwaukee,Brewers
+1984,MIN,A,Minnesota,Twins
+1984,NYA,A,New York,Yankees
+1984,OAK,A,Oakland,Athletics
+1984,SEA,A,Seattle,Mariners
+1984,TEX,A,Texas,Rangers
+1984,TOR,A,Toronto,Blue Jays
+1984,ATL,N,Atlanta,Braves
+1984,CHN,N,Chicago,Cubs
+1984,CIN,N,Cincinnati,Reds
+1984,HOU,N,Houston,Astros
+1984,LAN,N,Los Angeles,Dodgers
+1984,MON,N,Montreal,Expos
+1984,NYN,N,New York,Mets
+1984,PHI,N,Philadelphia,Phillies
+1984,PIT,N,Pittsburgh,Pirates
+1984,SDN,N,San Diego,Padres
+1984,SFN,N,San Francisco,Giants
+1984,SLN,N,St. Louis,Cardinals
+1985,BAL,A,Baltimore,Orioles
+1985,BOS,A,Boston,Red Sox
+1985,CAL,A,California,Angels
+1985,CHA,A,Chicago,White Sox
+1985,CLE,A,Cleveland,Indians
+1985,DET,A,Detroit,Tigers
+1985,KCA,A,Kansas City,Royals
+1985,MIL,A,Milwaukee,Brewers
+1985,MIN,A,Minnesota,Twins
+1985,NYA,A,New York,Yankees
+1985,OAK,A,Oakland,Athletics
+1985,SEA,A,Seattle,Mariners
+1985,TEX,A,Texas,Rangers
+1985,TOR,A,Toronto,Blue Jays
+1985,ATL,N,Atlanta,Braves
+1985,CHN,N,Chicago,Cubs
+1985,CIN,N,Cincinnati,Reds
+1985,HOU,N,Houston,Astros
+1985,LAN,N,Los Angeles,Dodgers
+1985,MON,N,Montreal,Expos
+1985,NYN,N,New York,Mets
+1985,PHI,N,Philadelphia,Phillies
+1985,PIT,N,Pittsburgh,Pirates
+1985,SDN,N,San Diego,Padres
+1985,SFN,N,San Francisco,Giants
+1985,SLN,N,St. Louis,Cardinals
+1986,BAL,A,Baltimore,Orioles
+1986,BOS,A,Boston,Red Sox
+1986,CLE,A,Cleveland,Indians
+1986,DET,A,Detroit,Tigers
+1986,MIL,A,Milwaukee,Brewers
+1986,NYA,A,New York,Yankees
+1986,TOR,A,Toronto,Blue Jays
+1986,CAL,A,California,Angels
+1986,CHA,A,Chicago,White Sox
+1986,KCA,A,Kansas City,Royals
+1986,MIN,A,Minnesota,Twins
+1986,OAK,A,Oakland,Athletics
+1986,SEA,A,Seattle,Mariners
+1986,TEX,A,Texas,Rangers
+1986,CHN,N,Chicago,Cubs
+1986,MON,N,Montreal,Expos
+1986,NYN,N,New York,Mets
+1986,PHI,N,Philadelphia,Phillies
+1986,PIT,N,Pittsburgh,Pirates
+1986,SLN,N,St. Louis,Cardinals
+1986,ATL,N,Atlanta,Braves
+1986,CIN,N,Cincinnati,Reds
+1986,HOU,N,Houston,Astros
+1986,LAN,N,Los Angeles,Dodgers
+1986,SDN,N,San Diego,Padres
+1986,SFN,N,San Francisco,Giants
+1987,BAL,A,Baltimore,Orioles
+1987,BOS,A,Boston,Red Sox
+1987,CLE,A,Cleveland,Indians
+1987,DET,A,Detroit,Tigers
+1987,MIL,A,Milwaukee,Brewers
+1987,NYA,A,New York,Yankees
+1987,TOR,A,Toronto,Blue Jays
+1987,CAL,A,California,Angels
+1987,CHA,A,Chicago,White Sox
+1987,KCA,A,Kansas City,Royals
+1987,MIN,A,Minnesota,Twins
+1987,OAK,A,Oakland,Athletics
+1987,SEA,A,Seattle,Mariners
+1987,TEX,A,Texas,Rangers
+1987,CHN,N,Chicago,Cubs
+1987,MON,N,Montreal,Expos
+1987,NYN,N,New York,Mets
+1987,PHI,N,Philadelphia,Phillies
+1987,PIT,N,Pittsburgh,Pirates
+1987,SLN,N,St. Louis,Cardinals
+1987,ATL,N,Atlanta,Braves
+1987,CIN,N,Cincinnati,Reds
+1987,HOU,N,Houston,Astros
+1987,LAN,N,Los Angeles,Dodgers
+1987,SDN,N,San Diego,Padres
+1987,SFN,N,San Francisco,Giants
+1988,BAL,A,Baltimore,Orioles
+1988,BOS,A,Boston,Red Sox
+1988,CLE,A,Cleveland,Indians
+1988,DET,A,Detroit,Tigers
+1988,MIL,A,Milwaukee,Brewers
+1988,NYA,A,New York,Yankees
+1988,TOR,A,Toronto,Blue Jays
+1988,CAL,A,California,Angels
+1988,CHA,A,Chicago,White Sox
+1988,KCA,A,Kansas City,Royals
+1988,MIN,A,Minnesota,Twins
+1988,OAK,A,Oakland,Athletics
+1988,SEA,A,Seattle,Mariners
+1988,TEX,A,Texas,Rangers
+1988,CHN,N,Chicago,Cubs
+1988,MON,N,Montreal,Expos
+1988,NYN,N,New York,Mets
+1988,PHI,N,Philadelphia,Phillies
+1988,PIT,N,Pittsburgh,Pirates
+1988,SLN,N,St. Louis,Cardinals
+1988,ATL,N,Atlanta,Braves
+1988,CIN,N,Cincinnati,Reds
+1988,HOU,N,Houston,Astros
+1988,LAN,N,Los Angeles,Dodgers
+1988,SDN,N,San Diego,Padres
+1988,SFN,N,San Francisco,Giants
+1989,BAL,A,Baltimore,Orioles
+1989,BOS,A,Boston,Red Sox
+1989,CLE,A,Cleveland,Indians
+1989,DET,A,Detroit,Tigers
+1989,MIL,A,Milwaukee,Brewers
+1989,NYA,A,New York,Yankees
+1989,TOR,A,Toronto,Blue Jays
+1989,CAL,A,California,Angels
+1989,CHA,A,Chicago,White Sox
+1989,KCA,A,Kansas City,Royals
+1989,MIN,A,Minnesota,Twins
+1989,OAK,A,Oakland,Athletics
+1989,SEA,A,Seattle,Mariners
+1989,TEX,A,Texas,Rangers
+1989,CHN,N,Chicago,Cubs
+1989,MON,N,Montreal,Expos
+1989,NYN,N,New York,Mets
+1989,PHI,N,Philadelphia,Phillies
+1989,PIT,N,Pittsburgh,Pirates
+1989,SLN,N,St. Louis,Cardinals
+1989,ATL,N,Atlanta,Braves
+1989,CIN,N,Cincinnati,Reds
+1989,HOU,N,Houston,Astros
+1989,LAN,N,Los Angeles,Dodgers
+1989,SDN,N,San Diego,Padres
+1989,SFN,N,San Francisco,Giants
+1990,BAL,A,Baltimore,Orioles
+1990,BOS,A,Boston,Red Sox
+1990,CLE,A,Cleveland,Indians
+1990,DET,A,Detroit,Tigers
+1990,MIL,A,Milwaukee,Brewers
+1990,NYA,A,New York,Yankees
+1990,TOR,A,Toronto,Blue Jays
+1990,CAL,A,California,Angels
+1990,CHA,A,Chicago,White Sox
+1990,KCA,A,Kansas City,Royals
+1990,MIN,A,Minnesota,Twins
+1990,OAK,A,Oakland,Athletics
+1990,SEA,A,Seattle,Mariners
+1990,TEX,A,Texas,Rangers
+1990,CHN,N,Chicago,Cubs
+1990,MON,N,Montreal,Expos
+1990,NYN,N,New York,Mets
+1990,PHI,N,Philadelphia,Phillies
+1990,PIT,N,Pittsburgh,Pirates
+1990,SLN,N,St. Louis,Cardinals
+1990,ATL,N,Atlanta,Braves
+1990,CIN,N,Cincinnati,Reds
+1990,HOU,N,Houston,Astros
+1990,LAN,N,Los Angeles,Dodgers
+1990,SDN,N,San Diego,Padres
+1990,SFN,N,San Francisco,Giants
+1991,BAL,A,Baltimore,Orioles
+1991,BOS,A,Boston,Red Sox
+1991,CLE,A,Cleveland,Indians
+1991,DET,A,Detroit,Tigers
+1991,MIL,A,Milwaukee,Brewers
+1991,NYA,A,New York,Yankees
+1991,TOR,A,Toronto,Blue Jays
+1991,CAL,A,California,Angels
+1991,CHA,A,Chicago,White Sox
+1991,KCA,A,Kansas City,Royals
+1991,MIN,A,Minnesota,Twins
+1991,OAK,A,Oakland,Athletics
+1991,SEA,A,Seattle,Mariners
+1991,TEX,A,Texas,Rangers
+1991,CHN,N,Chicago,Cubs
+1991,MON,N,Montreal,Expos
+1991,NYN,N,New York,Mets
+1991,PHI,N,Philadelphia,Phillies
+1991,PIT,N,Pittsburgh,Pirates
+1991,SLN,N,St. Louis,Cardinals
+1991,ATL,N,Atlanta,Braves
+1991,CIN,N,Cincinnati,Reds
+1991,HOU,N,Houston,Astros
+1991,LAN,N,Los Angeles,Dodgers
+1991,SDN,N,San Diego,Padres
+1991,SFN,N,San Francisco,Giants
+1992,BAL,A,Baltimore,Orioles
+1992,BOS,A,Boston,Red Sox
+1992,CLE,A,Cleveland,Indians
+1992,DET,A,Detroit,Tigers
+1992,MIL,A,Milwaukee,Brewers
+1992,NYA,A,New York,Yankees
+1992,TOR,A,Toronto,Blue Jays
+1992,CAL,A,California,Angels
+1992,CHA,A,Chicago,White Sox
+1992,KCA,A,Kansas City,Royals
+1992,MIN,A,Minnesota,Twins
+1992,OAK,A,Oakland,Athletics
+1992,SEA,A,Seattle,Mariners
+1992,TEX,A,Texas,Rangers
+1992,CHN,N,Chicago,Cubs
+1992,MON,N,Montreal,Expos
+1992,NYN,N,New York,Mets
+1992,PHI,N,Philadelphia,Phillies
+1992,PIT,N,Pittsburgh,Pirates
+1992,SLN,N,St. Louis,Cardinals
+1992,ATL,N,Atlanta,Braves
+1992,CIN,N,Cincinnati,Reds
+1992,HOU,N,Houston,Astros
+1992,LAN,N,Los Angeles,Dodgers
+1992,SDN,N,San Diego,Padres
+1992,SFN,N,San Francisco,Giants
+1993,BAL,A,Baltimore,Orioles
+1993,BOS,A,Boston,Red Sox
+1993,CLE,A,Cleveland,Indians
+1993,DET,A,Detroit,Tigers
+1993,MIL,A,Milwaukee,Brewers
+1993,NYA,A,New York,Yankees
+1993,TOR,A,Toronto,Blue Jays
+1993,CAL,A,California,Angels
+1993,CHA,A,Chicago,White Sox
+1993,KCA,A,Kansas City,Royals
+1993,MIN,A,Minnesota,Twins
+1993,OAK,A,Oakland,Athletics
+1993,SEA,A,Seattle,Mariners
+1993,TEX,A,Texas,Rangers
+1993,CHN,N,Chicago,Cubs
+1993,FLO,N,Florida,Marlins
+1993,MON,N,Montreal,Expos
+1993,NYN,N,New York,Mets
+1993,PHI,N,Philadelphia,Phillies
+1993,PIT,N,Pittsburgh,Pirates
+1993,SLN,N,St. Louis,Cardinals
+1993,ATL,N,Atlanta,Braves
+1993,CIN,N,Cincinnati,Reds
+1993,COL,N,Colorado,Rockies
+1993,HOU,N,Houston,Astros
+1993,LAN,N,Los Angeles,Dodgers
+1993,SDN,N,San Diego,Padres
+1993,SFN,N,San Francisco,Giants
+1994,BAL,A,Baltimore,Orioles
+1994,BOS,A,Boston,Red Sox
+1994,CAL,A,California,Angels
+1994,CHA,A,Chicago,White Sox
+1994,CLE,A,Cleveland,Indians
+1994,DET,A,Detroit,Tigers
+1994,KCA,A,Kansas City,Royals
+1994,MIL,A,Milwaukee,Brewers
+1994,MIN,A,Minnesota,Twins
+1994,NYA,A,New York,Yankees
+1994,OAK,A,Oakland,Athletics
+1994,SEA,A,Seattle,Mariners
+1994,TEX,A,Texas,Rangers
+1994,TOR,A,Toronto,Blue Jays
+1994,ATL,N,Atlanta,Braves
+1994,CHN,N,Chicago,Cubs
+1994,CIN,N,Cincinnati,Reds
+1994,COL,N,Colorado,Rockies
+1994,FLO,N,Florida,Marlins
+1994,HOU,N,Houston,Astros
+1994,LAN,N,Los Angeles,Dodgers
+1994,MON,N,Montreal,Expos
+1994,NYN,N,New York,Mets
+1994,PHI,N,Philadelphia,Phillies
+1994,PIT,N,Pittsburgh,Pirates
+1994,SDN,N,San Diego,Padres
+1994,SFN,N,San Francisco,Giants
+1994,SLN,N,St. Louis,Cardinals
+1995,BAL,A,Baltimore,Orioles
+1995,BOS,A,Boston,Red Sox
+1995,CAL,A,California,Angels
+1995,CHA,A,Chicago,White Sox
+1995,CLE,A,Cleveland,Indians
+1995,DET,A,Detroit,Tigers
+1995,KCA,A,Kansas City,Royals
+1995,MIL,A,Milwaukee,Brewers
+1995,MIN,A,Minnesota,Twins
+1995,NYA,A,New York,Yankees
+1995,OAK,A,Oakland,Athletics
+1995,SEA,A,Seattle,Mariners
+1995,TEX,A,Texas,Rangers
+1995,TOR,A,Toronto,Blue Jays
+1995,ATL,N,Atlanta,Braves
+1995,CHN,N,Chicago,Cubs
+1995,CIN,N,Cincinnati,Reds
+1995,COL,N,Colorado,Rockies
+1995,FLO,N,Florida,Marlins
+1995,HOU,N,Houston,Astros
+1995,LAN,N,Los Angeles,Dodgers
+1995,MON,N,Montreal,Expos
+1995,NYN,N,New York,Mets
+1995,PHI,N,Philadelphia,Phillies
+1995,PIT,N,Pittsburgh,Pirates
+1995,SDN,N,San Diego,Padres
+1995,SFN,N,San Francisco,Giants
+1995,SLN,N,St. Louis,Cardinals
+1996,BAL,A,Baltimore,Orioles
+1996,BOS,A,Boston,Red Sox
+1996,CAL,A,California,Angels
+1996,CHA,A,Chicago,White Sox
+1996,CLE,A,Cleveland,Indians
+1996,DET,A,Detroit,Tigers
+1996,KCA,A,Kansas City,Royals
+1996,MIL,A,Milwaukee,Brewers
+1996,MIN,A,Minnesota,Twins
+1996,NYA,A,New York,Yankees
+1996,OAK,A,Oakland,Athletics
+1996,SEA,A,Seattle,Mariners
+1996,TEX,A,Texas,Rangers
+1996,TOR,A,Toronto,Blue Jays
+1996,ATL,N,Atlanta,Braves
+1996,CHN,N,Chicago,Cubs
+1996,CIN,N,Cincinnati,Reds
+1996,COL,N,Colorado,Rockies
+1996,FLO,N,Florida,Marlins
+1996,HOU,N,Houston,Astros
+1996,LAN,N,Los Angeles,Dodgers
+1996,MON,N,Montreal,Expos
+1996,NYN,N,New York,Mets
+1996,PHI,N,Philadelphia,Phillies
+1996,PIT,N,Pittsburgh,Pirates
+1996,SDN,N,San Diego,Padres
+1996,SFN,N,San Francisco,Giants
+1996,SLN,N,St. Louis,Cardinals
+1997,ANA,A,Anaheim,Angels
+1997,BAL,A,Baltimore,Orioles
+1997,BOS,A,Boston,Red Sox
+1997,CHA,A,Chicago,White Sox
+1997,CLE,A,Cleveland,Indians
+1997,DET,A,Detroit,Tigers
+1997,KCA,A,Kansas City,Royals
+1997,MIL,A,Milwaukee,Brewers
+1997,MIN,A,Minnesota,Twins
+1997,NYA,A,New York,Yankees
+1997,OAK,A,Oakland,Athletics
+1997,SEA,A,Seattle,Mariners
+1997,TEX,A,Texas,Rangers
+1997,TOR,A,Toronto,Blue Jays
+1997,ATL,N,Atlanta,Braves
+1997,CHN,N,Chicago,Cubs
+1997,CIN,N,Cincinnati,Reds
+1997,COL,N,Colorado,Rockies
+1997,FLO,N,Florida,Marlins
+1997,HOU,N,Houston,Astros
+1997,LAN,N,Los Angeles,Dodgers
+1997,MON,N,Montreal,Expos
+1997,NYN,N,New York,Mets
+1997,PHI,N,Philadelphia,Phillies
+1997,PIT,N,Pittsburgh,Pirates
+1997,SDN,N,San Diego,Padres
+1997,SFN,N,San Francisco,Giants
+1997,SLN,N,St. Louis,Cardinals
+1998,ANA,A,Anaheim,Angels
+1998,BAL,A,Baltimore,Orioles
+1998,BOS,A,Boston,Red Sox
+1998,CHA,A,Chicago,White Sox
+1998,CLE,A,Cleveland,Indians
+1998,DET,A,Detroit,Tigers
+1998,KCA,A,Kansas City,Royals
+1998,MIN,A,Minnesota,Twins
+1998,NYA,A,New York,Yankees
+1998,OAK,A,Oakland,Athletics
+1998,SEA,A,Seattle,Mariners
+1998,TBA,A,Tampa Bay,Devil Rays
+1998,TEX,A,Texas,Rangers
+1998,TOR,A,Toronto,Blue Jays
+1998,ARI,N,Arizona,Diamondbacks
+1998,ATL,N,Atlanta,Braves
+1998,CHN,N,Chicago,Cubs
+1998,CIN,N,Cincinnati,Reds
+1998,COL,N,Colorado,Rockies
+1998,FLO,N,Florida,Marlins
+1998,HOU,N,Houston,Astros
+1998,LAN,N,Los Angeles,Dodgers
+1998,MIL,N,Milwaukee,Brewers
+1998,MON,N,Montreal,Expos
+1998,NYN,N,New York,Mets
+1998,PHI,N,Philadelphia,Phillies
+1998,PIT,N,Pittsburgh,Pirates
+1998,SDN,N,San Diego,Padres
+1998,SFN,N,San Francisco,Giants
+1998,SLN,N,St. Louis,Cardinals
+1999,ANA,A,Anaheim,Angels
+1999,BAL,A,Baltimore,Orioles
+1999,BOS,A,Boston,Red Sox
+1999,CHA,A,Chicago,White Sox
+1999,CLE,A,Cleveland,Indians
+1999,DET,A,Detroit,Tigers
+1999,KCA,A,Kansas City,Royals
+1999,MIN,A,Minnesota,Twins
+1999,NYA,A,New York,Yankees
+1999,OAK,A,Oakland,Athletics
+1999,SEA,A,Seattle,Mariners
+1999,TBA,A,Tampa Bay,Devil Rays
+1999,TEX,A,Texas,Rangers
+1999,TOR,A,Toronto,Blue Jays
+1999,ARI,N,Arizona,Diamondbacks
+1999,ATL,N,Atlanta,Braves
+1999,CHN,N,Chicago,Cubs
+1999,CIN,N,Cincinnati,Reds
+1999,COL,N,Colorado,Rockies
+1999,FLO,N,Florida,Marlins
+1999,HOU,N,Houston,Astros
+1999,LAN,N,Los Angeles,Dodgers
+1999,MIL,N,Milwaukee,Brewers
+1999,MON,N,Montreal,Expos
+1999,NYN,N,New York,Mets
+1999,PHI,N,Philadelphia,Phillies
+1999,PIT,N,Pittsburgh,Pirates
+1999,SDN,N,San Diego,Padres
+1999,SFN,N,San Francisco,Giants
+1999,SLN,N,St. Louis,Cardinals
+2000,ANA,A,Anaheim,Angels
+2000,BAL,A,Baltimore,Orioles
+2000,BOS,A,Boston,Red Sox
+2000,CHA,A,Chicago,White Sox
+2000,CLE,A,Cleveland,Indians
+2000,DET,A,Detroit,Tigers
+2000,KCA,A,Kansas City,Royals
+2000,MIN,A,Minnesota,Twins
+2000,NYA,A,New York,Yankees
+2000,OAK,A,Oakland,Athletics
+2000,SEA,A,Seattle,Mariners
+2000,TBA,A,Tampa Bay,Devil Rays
+2000,TEX,A,Texas,Rangers
+2000,TOR,A,Toronto,Blue Jays
+2000,ARI,N,Arizona,Diamondbacks
+2000,ATL,N,Atlanta,Braves
+2000,CHN,N,Chicago,Cubs
+2000,CIN,N,Cincinnati,Reds
+2000,COL,N,Colorado,Rockies
+2000,FLO,N,Florida,Marlins
+2000,HOU,N,Houston,Astros
+2000,LAN,N,Los Angeles,Dodgers
+2000,MIL,N,Milwaukee,Brewers
+2000,MON,N,Montreal,Expos
+2000,NYN,N,New York,Mets
+2000,PHI,N,Philadelphia,Phillies
+2000,PIT,N,Pittsburgh,Pirates
+2000,SDN,N,San Diego,Padres
+2000,SFN,N,San Francisco,Giants
+2000,SLN,N,St. Louis,Cardinals
+2001,ANA,A,Anaheim,Angels
+2001,BAL,A,Baltimore,Orioles
+2001,BOS,A,Boston,Red Sox
+2001,CHA,A,Chicago,White Sox
+2001,CLE,A,Cleveland,Indians
+2001,DET,A,Detroit,Tigers
+2001,KCA,A,Kansas City,Royals
+2001,MIN,A,Minnesota,Twins
+2001,NYA,A,New York,Yankees
+2001,OAK,A,Oakland,Athletics
+2001,SEA,A,Seattle,Mariners
+2001,TBA,A,Tampa Bay,Devil Rays
+2001,TEX,A,Texas,Rangers
+2001,TOR,A,Toronto,Blue Jays
+2001,ARI,N,Arizona,Diamondbacks
+2001,ATL,N,Atlanta,Braves
+2001,CHN,N,Chicago,Cubs
+2001,CIN,N,Cincinnati,Reds
+2001,COL,N,Colorado,Rockies
+2001,FLO,N,Florida,Marlins
+2001,HOU,N,Houston,Astros
+2001,LAN,N,Los Angeles,Dodgers
+2001,MIL,N,Milwaukee,Brewers
+2001,MON,N,Montreal,Expos
+2001,NYN,N,New York,Mets
+2001,PHI,N,Philadelphia,Phillies
+2001,PIT,N,Pittsburgh,Pirates
+2001,SDN,N,San Diego,Padres
+2001,SFN,N,San Francisco,Giants
+2001,SLN,N,St. Louis,Cardinals
+2002,ANA,A,Anaheim,Angels
+2002,BAL,A,Baltimore,Orioles
+2002,BOS,A,Boston,Red Sox
+2002,CHA,A,Chicago,White Sox
+2002,CLE,A,Cleveland,Indians
+2002,DET,A,Detroit,Tigers
+2002,KCA,A,Kansas City,Royals
+2002,MIN,A,Minnesota,Twins
+2002,NYA,A,New York,Yankees
+2002,OAK,A,Oakland,Athletics
+2002,SEA,A,Seattle,Mariners
+2002,TBA,A,Tampa Bay,Devil Rays
+2002,TEX,A,Texas,Rangers
+2002,TOR,A,Toronto,Blue Jays
+2002,ARI,N,Arizona,Diamondbacks
+2002,ATL,N,Atlanta,Braves
+2002,CHN,N,Chicago,Cubs
+2002,CIN,N,Cincinnati,Reds
+2002,COL,N,Colorado,Rockies
+2002,FLO,N,Florida,Marlins
+2002,HOU,N,Houston,Astros
+2002,LAN,N,Los Angeles,Dodgers
+2002,MIL,N,Milwaukee,Brewers
+2002,MON,N,Montreal,Expos
+2002,NYN,N,New York,Mets
+2002,PHI,N,Philadelphia,Phillies
+2002,PIT,N,Pittsburgh,Pirates
+2002,SDN,N,San Diego,Padres
+2002,SFN,N,San Francisco,Giants
+2002,SLN,N,St. Louis,Cardinals
+2003,ANA,A,Anaheim,Angels
+2003,BAL,A,Baltimore,Orioles
+2003,BOS,A,Boston,Red Sox
+2003,CHA,A,Chicago,White Sox
+2003,CLE,A,Cleveland,Indians
+2003,DET,A,Detroit,Tigers
+2003,KCA,A,Kansas City,Royals
+2003,MIN,A,Minnesota,Twins
+2003,NYA,A,New York,Yankees
+2003,OAK,A,Oakland,Athletics
+2003,SEA,A,Seattle,Mariners
+2003,TBA,A,Tampa Bay,Devil Rays
+2003,TEX,A,Texas,Rangers
+2003,TOR,A,Toronto,Blue Jays
+2003,ARI,N,Arizona,Diamondbacks
+2003,ATL,N,Atlanta,Braves
+2003,CHN,N,Chicago,Cubs
+2003,CIN,N,Cincinnati,Reds
+2003,COL,N,Colorado,Rockies
+2003,FLO,N,Florida,Marlins
+2003,HOU,N,Houston,Astros
+2003,LAN,N,Los Angeles,Dodgers
+2003,MIL,N,Milwaukee,Brewers
+2003,MON,N,Montreal,Expos
+2003,NYN,N,New York,Mets
+2003,PHI,N,Philadelphia,Phillies
+2003,PIT,N,Pittsburgh,Pirates
+2003,SDN,N,San Diego,Padres
+2003,SFN,N,San Francisco,Giants
+2003,SLN,N,St. Louis,Cardinals
+2004,ANA,A,Anaheim,Angels
+2004,BAL,A,Baltimore,Orioles
+2004,BOS,A,Boston,Red Sox
+2004,CHA,A,Chicago,White Sox
+2004,CLE,A,Cleveland,Indians
+2004,DET,A,Detroit,Tigers
+2004,KCA,A,Kansas City,Royals
+2004,MIN,A,Minnesota,Twins
+2004,NYA,A,New York,Yankees
+2004,OAK,A,Oakland,Athletics
+2004,SEA,A,Seattle,Mariners
+2004,TBA,A,Tampa Bay,Devil Rays
+2004,TEX,A,Texas,Rangers
+2004,TOR,A,Toronto,Blue Jays
+2004,ARI,N,Arizona,Diamondbacks
+2004,ATL,N,Atlanta,Braves
+2004,CHN,N,Chicago,Cubs
+2004,CIN,N,Cincinnati,Reds
+2004,COL,N,Colorado,Rockies
+2004,FLO,N,Florida,Marlins
+2004,HOU,N,Houston,Astros
+2004,LAN,N,Los Angeles,Dodgers
+2004,MIL,N,Milwaukee,Brewers
+2004,MON,N,Montreal,Expos
+2004,NYN,N,New York,Mets
+2004,PHI,N,Philadelphia,Phillies
+2004,PIT,N,Pittsburgh,Pirates
+2004,SDN,N,San Diego,Padres
+2004,SFN,N,San Francisco,Giants
+2004,SLN,N,St. Louis,Cardinals
+2005,ANA,A,Anaheim,Angels
+2005,BAL,A,Baltimore,Orioles
+2005,BOS,A,Boston,Red Sox
+2005,CHA,A,Chicago,White Sox
+2005,CLE,A,Cleveland,Indians
+2005,DET,A,Detroit,Tigers
+2005,KCA,A,Kansas City,Royals
+2005,MIN,A,Minnesota,Twins
+2005,NYA,A,New York,Yankees
+2005,OAK,A,Oakland,Athletics
+2005,SEA,A,Seattle,Mariners
+2005,TBA,A,Tampa Bay,Devil Rays
+2005,TEX,A,Texas,Rangers
+2005,TOR,A,Toronto,Blue Jays
+2005,ARI,N,Arizona,Diamondbacks
+2005,ATL,N,Atlanta,Braves
+2005,CHN,N,Chicago,Cubs
+2005,CIN,N,Cincinnati,Reds
+2005,COL,N,Colorado,Rockies
+2005,FLO,N,Florida,Marlins
+2005,HOU,N,Houston,Astros
+2005,LAN,N,Los Angeles,Dodgers
+2005,MIL,N,Milwaukee,Brewers
+2005,NYN,N,New York,Mets
+2005,PHI,N,Philadelphia,Phillies
+2005,PIT,N,Pittsburgh,Pirates
+2005,SDN,N,San Diego,Padres
+2005,SFN,N,San Francisco,Giants
+2005,SLN,N,St. Louis,Cardinals
+2005,WAS,N,Washington,Nationals
+2006,ANA,A,Anaheim,Angels
+2006,BAL,A,Baltimore,Orioles
+2006,BOS,A,Boston,Red Sox
+2006,CHA,A,Chicago,White Sox
+2006,CLE,A,Cleveland,Indians
+2006,DET,A,Detroit,Tigers
+2006,KCA,A,Kansas City,Royals
+2006,MIN,A,Minnesota,Twins
+2006,NYA,A,New York,Yankees
+2006,OAK,A,Oakland,Athletics
+2006,SEA,A,Seattle,Mariners
+2006,TBA,A,Tampa Bay,Devil Rays
+2006,TEX,A,Texas,Rangers
+2006,TOR,A,Toronto,Blue Jays
+2006,ARI,N,Arizona,Diamondbacks
+2006,ATL,N,Atlanta,Braves
+2006,CHN,N,Chicago,Cubs
+2006,CIN,N,Cincinnati,Reds
+2006,COL,N,Colorado,Rockies
+2006,FLO,N,Florida,Marlins
+2006,HOU,N,Houston,Astros
+2006,LAN,N,Los Angeles,Dodgers
+2006,MIL,N,Milwaukee,Brewers
+2006,NYN,N,New York,Mets
+2006,PHI,N,Philadelphia,Phillies
+2006,PIT,N,Pittsburgh,Pirates
+2006,SDN,N,San Diego,Padres
+2006,SFN,N,San Francisco,Giants
+2006,SLN,N,St. Louis,Cardinals
+2006,WAS,N,Washington,Nationals
+2007,ANA,A,Anaheim,Angels
+2007,BAL,A,Baltimore,Orioles
+2007,BOS,A,Boston,Red Sox
+2007,CHA,A,Chicago,White Sox
+2007,CLE,A,Cleveland,Indians
+2007,DET,A,Detroit,Tigers
+2007,KCA,A,Kansas City,Royals
+2007,MIN,A,Minnesota,Twins
+2007,NYA,A,New York,Yankees
+2007,OAK,A,Oakland,Athletics
+2007,SEA,A,Seattle,Mariners
+2007,TBA,A,Tampa Bay,Devil Rays
+2007,TEX,A,Texas,Rangers
+2007,TOR,A,Toronto,Blue Jays
+2007,ARI,N,Arizona,Diamondbacks
+2007,ATL,N,Atlanta,Braves
+2007,CHN,N,Chicago,Cubs
+2007,CIN,N,Cincinnati,Reds
+2007,COL,N,Colorado,Rockies
+2007,FLO,N,Florida,Marlins
+2007,HOU,N,Houston,Astros
+2007,LAN,N,Los Angeles,Dodgers
+2007,MIL,N,Milwaukee,Brewers
+2007,NYN,N,New York,Mets
+2007,PHI,N,Philadelphia,Phillies
+2007,PIT,N,Pittsburgh,Pirates
+2007,SDN,N,San Diego,Padres
+2007,SFN,N,San Francisco,Giants
+2007,SLN,N,St. Louis,Cardinals
+2007,WAS,N,Washington,Nationals
+2008,ANA,A,Anaheim,Angels
+2008,BAL,A,Baltimore,Orioles
+2008,BOS,A,Boston,Red Sox
+2008,CHA,A,Chicago,White Sox
+2008,CLE,A,Cleveland,Indians
+2008,DET,A,Detroit,Tigers
+2008,KCA,A,Kansas City,Royals
+2008,MIN,A,Minnesota,Twins
+2008,NYA,A,New York,Yankees
+2008,OAK,A,Oakland,Athletics
+2008,SEA,A,Seattle,Mariners
+2008,TBA,A,Tampa Bay,Rays
+2008,TEX,A,Texas,Rangers
+2008,TOR,A,Toronto,Blue Jays
+2008,ARI,N,Arizona,Diamondbacks
+2008,ATL,N,Atlanta,Braves
+2008,CHN,N,Chicago,Cubs
+2008,CIN,N,Cincinnati,Reds
+2008,COL,N,Colorado,Rockies
+2008,FLO,N,Florida,Marlins
+2008,HOU,N,Houston,Astros
+2008,LAN,N,Los Angeles,Dodgers
+2008,MIL,N,Milwaukee,Brewers
+2008,NYN,N,New York,Mets
+2008,PHI,N,Philadelphia,Phillies
+2008,PIT,N,Pittsburgh,Pirates
+2008,SDN,N,San Diego,Padres
+2008,SFN,N,San Francisco,Giants
+2008,SLN,N,St. Louis,Cardinals
+2008,WAS,N,Washington,Nationals
+2009,ANA,A,Anaheim,Angels
+2009,BAL,A,Baltimore,Orioles
+2009,BOS,A,Boston,Red Sox
+2009,CHA,A,Chicago,White Sox
+2009,CLE,A,Cleveland,Indians
+2009,DET,A,Detroit,Tigers
+2009,KCA,A,Kansas City,Royals
+2009,MIN,A,Minnesota,Twins
+2009,NYA,A,New York,Yankees
+2009,OAK,A,Oakland,Athletics
+2009,SEA,A,Seattle,Mariners
+2009,TBA,A,Tampa Bay,Rays
+2009,TEX,A,Texas,Rangers
+2009,TOR,A,Toronto,Blue Jays
+2009,ARI,N,Arizona,Diamondbacks
+2009,ATL,N,Atlanta,Braves
+2009,CHN,N,Chicago,Cubs
+2009,CIN,N,Cincinnati,Reds
+2009,COL,N,Colorado,Rockies
+2009,FLO,N,Florida,Marlins
+2009,HOU,N,Houston,Astros
+2009,LAN,N,Los Angeles,Dodgers
+2009,MIL,N,Milwaukee,Brewers
+2009,NYN,N,New York,Mets
+2009,PHI,N,Philadelphia,Phillies
+2009,PIT,N,Pittsburgh,Pirates
+2009,SDN,N,San Diego,Padres
+2009,SFN,N,San Francisco,Giants
+2009,SLN,N,St. Louis,Cardinals
+2009,WAS,N,Washington,Nationals
+2010,ANA,A,Anaheim,Angels
+2010,BAL,A,Baltimore,Orioles
+2010,BOS,A,Boston,Red Sox
+2010,CHA,A,Chicago,White Sox
+2010,CLE,A,Cleveland,Indians
+2010,DET,A,Detroit,Tigers
+2010,KCA,A,Kansas City,Royals
+2010,MIN,A,Minnesota,Twins
+2010,NYA,A,New York,Yankees
+2010,OAK,A,Oakland,Athletics
+2010,SEA,A,Seattle,Mariners
+2010,TBA,A,Tampa Bay,Rays
+2010,TEX,A,Texas,Rangers
+2010,TOR,A,Toronto,Blue Jays
+2010,ARI,N,Arizona,Diamondbacks
+2010,ATL,N,Atlanta,Braves
+2010,CHN,N,Chicago,Cubs
+2010,CIN,N,Cincinnati,Reds
+2010,COL,N,Colorado,Rockies
+2010,FLO,N,Florida,Marlins
+2010,HOU,N,Houston,Astros
+2010,LAN,N,Los Angeles,Dodgers
+2010,MIL,N,Milwaukee,Brewers
+2010,NYN,N,New York,Mets
+2010,PHI,N,Philadelphia,Phillies
+2010,PIT,N,Pittsburgh,Pirates
+2010,SDN,N,San Diego,Padres
+2010,SFN,N,San Francisco,Giants
+2010,SLN,N,St. Louis,Cardinals
+2010,WAS,N,Washington,Nationals
+2011,ANA,A,Anaheim,Angels
+2011,BAL,A,Baltimore,Orioles
+2011,BOS,A,Boston,Red Sox
+2011,CHA,A,Chicago,White Sox
+2011,CLE,A,Cleveland,Indians
+2011,DET,A,Detroit,Tigers
+2011,KCA,A,Kansas City,Royals
+2011,MIN,A,Minnesota,Twins
+2011,NYA,A,New York,Yankees
+2011,OAK,A,Oakland,Athletics
+2011,SEA,A,Seattle,Mariners
+2011,TBA,A,Tampa Bay,Rays
+2011,TEX,A,Texas,Rangers
+2011,TOR,A,Toronto,Blue Jays
+2011,ARI,N,Arizona,Diamondbacks
+2011,ATL,N,Atlanta,Braves
+2011,CHN,N,Chicago,Cubs
+2011,CIN,N,Cincinnati,Reds
+2011,COL,N,Colorado,Rockies
+2011,FLO,N,Florida,Marlins
+2011,HOU,N,Houston,Astros
+2011,LAN,N,Los Angeles,Dodgers
+2011,MIL,N,Milwaukee,Brewers
+2011,NYN,N,New York,Mets
+2011,PHI,N,Philadelphia,Phillies
+2011,PIT,N,Pittsburgh,Pirates
+2011,SDN,N,San Diego,Padres
+2011,SFN,N,San Francisco,Giants
+2011,SLN,N,St. Louis,Cardinals
+2011,WAS,N,Washington,Nationals
+2012,ANA,A,Anaheim,Angels
+2012,BAL,A,Baltimore,Orioles
+2012,BOS,A,Boston,Red Sox
+2012,CHA,A,Chicago,White Sox
+2012,CLE,A,Cleveland,Indians
+2012,DET,A,Detroit,Tigers
+2012,KCA,A,Kansas City,Royals
+2012,MIN,A,Minnesota,Twins
+2012,NYA,A,New York,Yankees
+2012,OAK,A,Oakland,Athletics
+2012,SEA,A,Seattle,Mariners
+2012,TBA,A,Tampa Bay,Rays
+2012,TEX,A,Texas,Rangers
+2012,TOR,A,Toronto,Blue Jays
+2012,ARI,N,Arizona,Diamondbacks
+2012,ATL,N,Atlanta,Braves
+2012,CHN,N,Chicago,Cubs
+2012,CIN,N,Cincinnati,Reds
+2012,COL,N,Colorado,Rockies
+2012,HOU,N,Houston,Astros
+2012,LAN,N,Los Angeles,Dodgers
+2012,MIA,N,Miami,Marlins
+2012,MIL,N,Milwaukee,Brewers
+2012,NYN,N,New York,Mets
+2012,PHI,N,Philadelphia,Phillies
+2012,PIT,N,Pittsburgh,Pirates
+2012,SDN,N,San Diego,Padres
+2012,SFN,N,San Francisco,Giants
+2012,SLN,N,St. Louis,Cardinals
+2012,WAS,N,Washington,Nationals
+2013,ANA,A,Anaheim,Angels
+2013,BAL,A,Baltimore,Orioles
+2013,BOS,A,Boston,Red Sox
+2013,CHA,A,Chicago,White Sox
+2013,CLE,A,Cleveland,Indians
+2013,DET,A,Detroit,Tigers
+2013,HOU,A,Houston,Astros
+2013,KCA,A,Kansas City,Royals
+2013,MIN,A,Minnesota,Twins
+2013,NYA,A,New York,Yankees
+2013,OAK,A,Oakland,Athletics
+2013,SEA,A,Seattle,Mariners
+2013,TBA,A,Tampa Bay,Rays
+2013,TEX,A,Texas,Rangers
+2013,TOR,A,Toronto,Blue Jays
+2013,ARI,N,Arizona,Diamondbacks
+2013,ATL,N,Atlanta,Braves
+2013,CHN,N,Chicago,Cubs
+2013,CIN,N,Cincinnati,Reds
+2013,COL,N,Colorado,Rockies
+2013,LAN,N,Los Angeles,Dodgers
+2013,MIA,N,Miami,Marlins
+2013,MIL,N,Milwaukee,Brewers
+2013,NYN,N,New York,Mets
+2013,PHI,N,Philadelphia,Phillies
+2013,PIT,N,Pittsburgh,Pirates
+2013,SDN,N,San Diego,Padres
+2013,SFN,N,San Francisco,Giants
+2013,SLN,N,St. Louis,Cardinals
+2013,WAS,N,Washington,Nationals
+2014,ANA,A,Anaheim,Angels
+2014,BAL,A,Baltimore,Orioles
+2014,BOS,A,Boston,Red Sox
+2014,CHA,A,Chicago,White Sox
+2014,CLE,A,Cleveland,Indians
+2014,DET,A,Detroit,Tigers
+2014,HOU,A,Houston,Astros
+2014,KCA,A,Kansas City,Royals
+2014,MIN,A,Minnesota,Twins
+2014,NYA,A,New York,Yankees
+2014,OAK,A,Oakland,Athletics
+2014,SEA,A,Seattle,Mariners
+2014,TBA,A,Tampa Bay,Rays
+2014,TEX,A,Texas,Rangers
+2014,TOR,A,Toronto,Blue Jays
+2014,ARI,N,Arizona,Diamondbacks
+2014,ATL,N,Atlanta,Braves
+2014,CHN,N,Chicago,Cubs
+2014,CIN,N,Cincinnati,Reds
+2014,COL,N,Colorado,Rockies
+2014,LAN,N,Los Angeles,Dodgers
+2014,MIA,N,Miami,Marlins
+2014,MIL,N,Milwaukee,Brewers
+2014,NYN,N,New York,Mets
+2014,PHI,N,Philadelphia,Phillies
+2014,PIT,N,Pittsburgh,Pirates
+2014,SDN,N,San Diego,Padres
+2014,SFN,N,San Francisco,Giants
+2014,SLN,N,St. Louis,Cardinals
+2014,WAS,N,Washington,Nationals
+2015,ANA,A,Anaheim,Angels
+2015,BAL,A,Baltimore,Orioles
+2015,BOS,A,Boston,Red Sox
+2015,CHA,A,Chicago,White Sox
+2015,CLE,A,Cleveland,Indians
+2015,DET,A,Detroit,Tigers
+2015,HOU,A,Houston,Astros
+2015,KCA,A,Kansas City,Royals
+2015,MIN,A,Minnesota,Twins
+2015,NYA,A,New York,Yankees
+2015,OAK,A,Oakland,Athletics
+2015,SEA,A,Seattle,Mariners
+2015,TBA,A,Tampa Bay,Rays
+2015,TEX,A,Texas,Rangers
+2015,TOR,A,Toronto,Blue Jays
+2015,ARI,N,Arizona,Diamondbacks
+2015,ATL,N,Atlanta,Braves
+2015,CHN,N,Chicago,Cubs
+2015,CIN,N,Cincinnati,Reds
+2015,COL,N,Colorado,Rockies
+2015,LAN,N,Los Angeles,Dodgers
+2015,MIA,N,Miami,Marlins
+2015,MIL,N,Milwaukee,Brewers
+2015,NYN,N,New York,Mets
+2015,PHI,N,Philadelphia,Phillies
+2015,PIT,N,Pittsburgh,Pirates
+2015,SDN,N,San Diego,Padres
+2015,SFN,N,San Francisco,Giants
+2015,SLN,N,St. Louis,Cardinals
+2015,WAS,N,Washington,Nationals
+2016,ANA,A,Anaheim,Angels
+2016,BAL,A,Baltimore,Orioles
+2016,BOS,A,Boston,Red Sox
+2016,CHA,A,Chicago,White Sox
+2016,CLE,A,Cleveland,Indians
+2016,DET,A,Detroit,Tigers
+2016,HOU,A,Houston,Astros
+2016,KCA,A,Kansas City,Royals
+2016,MIN,A,Minnesota,Twins
+2016,NYA,A,New York,Yankees
+2016,OAK,A,Oakland,Athletics
+2016,SEA,A,Seattle,Mariners
+2016,TBA,A,Tampa Bay,Rays
+2016,TEX,A,Texas,Rangers
+2016,TOR,A,Toronto,Blue Jays
+2016,ARI,N,Arizona,Diamondbacks
+2016,ATL,N,Atlanta,Braves
+2016,CHN,N,Chicago,Cubs
+2016,CIN,N,Cincinnati,Reds
+2016,COL,N,Colorado,Rockies
+2016,LAN,N,Los Angeles,Dodgers
+2016,MIA,N,Miami,Marlins
+2016,MIL,N,Milwaukee,Brewers
+2016,NYN,N,New York,Mets
+2016,PHI,N,Philadelphia,Phillies
+2016,PIT,N,Pittsburgh,Pirates
+2016,SDN,N,San Diego,Padres
+2016,SFN,N,San Francisco,Giants
+2016,SLN,N,St. Louis,Cardinals
+2016,WAS,N,Washington,Nationals
+2017,ANA,A,Anaheim,Angels
+2017,BAL,A,Baltimore,Orioles
+2017,BOS,A,Boston,Red Sox
+2017,CHA,A,Chicago,White Sox
+2017,CLE,A,Cleveland,Indians
+2017,DET,A,Detroit,Tigers
+2017,HOU,A,Houston,Astros
+2017,KCA,A,Kansas City,Royals
+2017,MIN,A,Minnesota,Twins
+2017,NYA,A,New York,Yankees
+2017,OAK,A,Oakland,Athletics
+2017,SEA,A,Seattle,Mariners
+2017,TBA,A,Tampa Bay,Rays
+2017,TEX,A,Texas,Rangers
+2017,TOR,A,Toronto,Blue Jays
+2017,ARI,N,Arizona,Diamondbacks
+2017,ATL,N,Atlanta,Braves
+2017,CHN,N,Chicago,Cubs
+2017,CIN,N,Cincinnati,Reds
+2017,COL,N,Colorado,Rockies
+2017,LAN,N,Los Angeles,Dodgers
+2017,MIA,N,Miami,Marlins
+2017,MIL,N,Milwaukee,Brewers
+2017,NYN,N,New York,Mets
+2017,PHI,N,Philadelphia,Phillies
+2017,PIT,N,Pittsburgh,Pirates
+2017,SDN,N,San Diego,Padres
+2017,SFN,N,San Francisco,Giants
+2017,SLN,N,St. Louis,Cardinals
+2017,WAS,N,Washington,Nationals
+2018,ANA,A,Anaheim,Angels
+2018,BAL,A,Baltimore,Orioles
+2018,BOS,A,Boston,Red Sox
+2018,CHA,A,Chicago,White Sox
+2018,CLE,A,Cleveland,Indians
+2018,DET,A,Detroit,Tigers
+2018,HOU,A,Houston,Astros
+2018,KCA,A,Kansas City,Royals
+2018,MIN,A,Minnesota,Twins
+2018,NYA,A,New York,Yankees
+2018,OAK,A,Oakland,Athletics
+2018,SEA,A,Seattle,Mariners
+2018,TBA,A,Tampa Bay,Rays
+2018,TEX,A,Texas,Rangers
+2018,TOR,A,Toronto,Blue Jays
+2018,ARI,N,Arizona,Diamondbacks
+2018,ATL,N,Atlanta,Braves
+2018,CHN,N,Chicago,Cubs
+2018,CIN,N,Cincinnati,Reds
+2018,COL,N,Colorado,Rockies
+2018,LAN,N,Los Angeles,Dodgers
+2018,MIA,N,Miami,Marlins
+2018,MIL,N,Milwaukee,Brewers
+2018,NYN,N,New York,Mets
+2018,PHI,N,Philadelphia,Phillies
+2018,PIT,N,Pittsburgh,Pirates
+2018,SDN,N,San Diego,Padres
+2018,SFN,N,San Francisco,Giants
+2018,SLN,N,St. Louis,Cardinals
+2018,WAS,N,Washington,Nationals
+2019,ANA,A,Anaheim,Angels
+2019,BAL,A,Baltimore,Orioles
+2019,BOS,A,Boston,Red Sox
+2019,CHA,A,Chicago,White Sox
+2019,CLE,A,Cleveland,Indians
+2019,DET,A,Detroit,Tigers
+2019,HOU,A,Houston,Astros
+2019,KCA,A,Kansas City,Royals
+2019,MIN,A,Minnesota,Twins
+2019,NYA,A,New York,Yankees
+2019,OAK,A,Oakland,Athletics
+2019,SEA,A,Seattle,Mariners
+2019,TBA,A,Tampa Bay,Rays
+2019,TEX,A,Texas,Rangers
+2019,TOR,A,Toronto,Blue Jays
+2019,ARI,N,Arizona,Diamondbacks
+2019,ATL,N,Atlanta,Braves
+2019,CHN,N,Chicago,Cubs
+2019,CIN,N,Cincinnati,Reds
+2019,COL,N,Colorado,Rockies
+2019,LAN,N,Los Angeles,Dodgers
+2019,MIA,N,Miami,Marlins
+2019,MIL,N,Milwaukee,Brewers
+2019,NYN,N,New York,Mets
+2019,PHI,N,Philadelphia,Phillies
+2019,PIT,N,Pittsburgh,Pirates
+2019,SDN,N,San Diego,Padres
+2019,SFN,N,San Francisco,Giants
+2019,SLN,N,St. Louis,Cardinals
+2019,WAS,N,Washington,Nationals
+2020,ANA,A,Anaheim,Angels
+2020,BAL,A,Baltimore,Orioles
+2020,BOS,A,Boston,Red Sox
+2020,CHA,A,Chicago,White Sox
+2020,CLE,A,Cleveland,Indians
+2020,DET,A,Detroit,Tigers
+2020,HOU,A,Houston,Astros
+2020,KCA,A,Kansas City,Royals
+2020,MIN,A,Minnesota,Twins
+2020,NYA,A,New York,Yankees
+2020,OAK,A,Oakland,Athletics
+2020,SEA,A,Seattle,Mariners
+2020,TBA,A,Tampa Bay,Rays
+2020,TEX,A,Texas,Rangers
+2020,TOR,A,Toronto,Blue Jays
+2020,ARI,N,Arizona,Diamondbacks
+2020,ATL,N,Atlanta,Braves
+2020,CHN,N,Chicago,Cubs
+2020,CIN,N,Cincinnati,Reds
+2020,COL,N,Colorado,Rockies
+2020,LAN,N,Los Angeles,Dodgers
+2020,MIA,N,Miami,Marlins
+2020,MIL,N,Milwaukee,Brewers
+2020,NYN,N,New York,Mets
+2020,PHI,N,Philadelphia,Phillies
+2020,PIT,N,Pittsburgh,Pirates
+2020,SDN,N,San Diego,Padres
+2020,SFN,N,San Francisco,Giants
+2020,SLN,N,St. Louis,Cardinals
+2020,WAS,N,Washington,Nationals
