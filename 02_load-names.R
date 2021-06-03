@@ -48,6 +48,6 @@ all_players_simplified <- all_players %>%
 all_teams %>% 
   write_csv("Players_Teams/all_teams.csv")
 
-all_players %>% 
+all_players_simplified %>% 
   write_csv("Players_Teams/all_players_retrosheet.csv")
 
