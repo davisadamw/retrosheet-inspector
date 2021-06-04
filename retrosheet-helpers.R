@@ -47,7 +47,7 @@ process_retrosheet_events <- function(event_vector) {
                 names_from = var, 
                 values_from = val,
                 values_fn = paste)
-  
+
   # pull out pitcher info
   # the key piece here is to make sure home pitchers get matched up with road hitters and vice versa
   pitchers_only <- events_ids %>% 
@@ -62,6 +62,7 @@ process_retrosheet_events <- function(event_vector) {
            pitcher_no = if_else(pitcher_home_road == "0", road_pitcher_no, home_pitcher_no)) %>% 
     select(pitcher_id, game_no, batter_home_road, pitcher_no)
   
+  
   # pull out plays and separate into columns /// each will have an identifying game and pitcher event  
   plays_only <- events_ids %>% 
     filter(event_type == "play") %>% 
@@ -71,7 +72,7 @@ process_retrosheet_events <- function(event_vector) {
              sep = ",") %>% 
     # grab the correct pitcher_no
     mutate(batter_home_road = if_else(home_road == "1", "H", "R"),
-           pitcher_no = if_else(batter_home_road == "H", home_pitcher_no, road_pitcher_no)) %>% 
+           pitcher_no = if_else(batter_home_road == "H", road_pitcher_no, home_pitcher_no)) %>% 
     select(inning, batter_home_road, batter_id, event, game_no, pitcher_no)
   
   # join play events to pitchers and game identifiers and drop all NP events
